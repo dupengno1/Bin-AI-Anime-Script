@@ -1,0 +1,150 @@
+# EPISODE 10 — 镜碎了
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 10
+TITLE: 镜碎了
+SUBTITLE: The Mirror Shatters
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名
+THEME: 沈无名镜中见官袍·身份动摇
+COLOR_TONE: 冷白浴室 + 金色官袍幻影
+BGM: isolation_ambient → mirror_distortion → identity_crisis_crescendo
+
+---
+
+[SCENE 01: 沈无名公寓·浴室 — 夜]
+DURATION: 0:00–0:30
+VISUAL: 狭小浴室，水蒸气弥漫
+
+SHOT_01:
+  TYPE: MEDIUM
+  DESC: 沈无名站在洗手台前，双手撑着台面，水龙头还在流。三世回忆的疲惫写在脸上。
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 他抬头看向镜子——镜中是自己疲惫的脸。水珠顺着镜面滑落。
+
+DIALOGUE:
+  沈无名: (低声) "三世了。每一世都是同样的结局——追到真相，然后死。"
+
+SFX: 水流声 + 呼吸声
+
+---
+
+[SCENE 02: 浴室·镜中异变 — 夜]
+DURATION: 0:30–1:30
+VISUAL: 镜面开始扭曲
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 镜面上的水珠突然停止流动。沈无名的倒影——开始与他的动作不同步。
+
+SHOT_04:
+  TYPE: INSERT
+  DESC: 镜中的沈无名微微偏头，但真实的沈无名没有动。
+
+SFX: 低频嗡鸣（渐强）
+
+DIALOGUE:
+  沈无名: (瞳孔微缩) "……什么？"
+
+SHOT_05:
+  TYPE: CLOSE-UP → SLOW_ZOOM
+  DESC: 镜中影像缓缓变化——沈无名的黑色风衣变为古代官袍，黑白相间，胸前绣着"阴阳"二字。
+
+SHOT_06:
+  TYPE: INSERT
+  DESC: 官袍细节特写——衣领处的金线纹路与判官印记完全一致。腰间悬挂判官笔和生死簿。
+
+DIALOGUE:
+  沈无名: (声音颤抖) "这是……判官袍？"
+
+SHOT_07:
+  TYPE: MEDIUM
+  DESC: 镜中的"判官沈无名"缓缓抬手，右手腕内侧——判官印记在燃烧般地发光。
+
+SHOT_08:
+  TYPE: REVERSE
+  DESC: 真实的沈无名低头看自己的手腕——现实中，印记也在发光。两边同步。
+
+SFX: 古钟鸣响 + 金色光芒音效
+
+---
+
+[SCENE 03: 镜面碎裂 — 夜]
+DURATION: 1:30–2:15
+VISUAL: 镜面裂纹扩散
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 镜中判官影像开口——但没有声音。嘴唇动了几下，像在说什么。
+
+SHOT_10:
+  TYPE: INSERT
+  DESC: 沈无名试图读唇语——"归……位……"
+
+DIALOGUE:
+  沈无名: "归位？什么归位——"
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 镜面突然从中心开始碎裂，裂纹如蛛网般扩散。
+
+SFX: 玻璃碎裂声（慢速）
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 碎镜片飞散的瞬间——每一片碎镜中都映出不同世的沈无名：
+  - 碎片1: 捕头沈刀
+  - 碎片2: 仵作苏仁
+  - 碎片3: 锦衣卫沈影
+  - 中央碎片: 阴阳判官
+
+SHOT_13:
+  TYPE: MEDIUM
+  DESC: 沈无名后退一步，背靠墙壁。碎镜散落一地。浴室恢复安静。
+
+SFX: 碎片落地 → 绝对寂静
+
+---
+
+[SCENE 04: 身份动摇]
+DURATION: 2:15–2:50
+
+SHOT_14:
+  TYPE: MEDIUM
+  DESC: 沈无名滑坐在浴室地板上，周围是碎镜。他拿起一片碎镜，看到的已是自己正常的倒影。
+
+DIALOGUE:
+  沈无名: "我……到底是谁？"
+  沈无名: (内心独白) "九世追凶的分析师？还是某个我不认识的……判官？"
+
+SHOT_15:
+  TYPE: INSERT
+  DESC: 地板上，碎镜碎片中最大的一块——映出沈无名半张脸和半张判官面具。
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_16:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "镜碎了，映出的不是脸——是九世未醒的真相。"
+
+SFX: 碎镜余音回响 → 静默
+
+---
+
+[END OF EPISODE 10]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E11 假死局
+HOOK: "林婉没有死——但地下室墙上刻着的九种死法，每一种都是沈无名的前世。"

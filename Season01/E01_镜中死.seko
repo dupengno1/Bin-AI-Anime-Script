@@ -1,0 +1,146 @@
+# EPISODE 01 — 镜中死
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 01
+TITLE: 镜中死
+SUBTITLE: The Death in the Mirror
+TIMELINE: 现代·夜晚
+FOCUS_CHARACTER: 沈无名
+THEME: 悬疑开篇·第一具尸体
+COLOR_TONE: 冷蓝灰 + 碎镜反光
+BGM: dark_ambient_intro → tension_build → mirror_shatter_sting
+
+---
+
+[SCENE 01: 废弃公寓楼道 — 夜]
+DURATION: 0:00–0:30
+VISUAL: 手持镜头，摇晃前进，楼道灯管闪烁
+
+SHOT_01:
+  TYPE: TRACKING
+  ANGLE: LOW → EYE_LEVEL
+  DESC: 警戒线拉起，几名巡警站在楼道口。闪烁的灯管投下不稳定的阴影。
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 一双黑色皮鞋踏入画面，镜头缓缓上移——
+
+SFX: 脚步声（回响），远处警笛
+
+---
+
+[SCENE 02: 废弃公寓·房间内 — 夜]
+DURATION: 0:30–1:20
+VISUAL: 暗调，唯一光源是破碎镜面的反光
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 房间破败，地上散落碎镜。一具尸体面朝下，倒在最大的碎镜前。
+
+SHOT_04:
+  TYPE: CLOSE-UP
+  DESC: 碎镜特写——镜面中映出的不是尸体的脸，而是一张惊恐扭曲的面孔，像是死前最后一秒的定格。
+
+SFX: 低频嗡鸣
+
+DIALOGUE:
+  巡警: "沈分析师，现场在这。"
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 沈无名蹲下，戴上手套，翻看碎镜。他的表情平静如水。
+
+DIALOGUE:
+  沈无名: (低声) "镜子碎了九片。不多，不少。"
+
+SHOT_06:
+  TYPE: INSERT
+  DESC: 沈无名手腕内侧特写——古篆纹路在碎镜反光下微微闪烁。
+
+SHOT_07:
+  TYPE: OVER-SHOULDER → CLOSE-UP
+  DESC: 沈无名拿起最大的碎镜片，凝视。镜面中——一闪而过——一个穿着古代官袍的身影。
+
+SFX: 金属共鸣音（极短）
+
+DIALOGUE:
+  沈无名: (瞳孔微缩) "……"
+
+---
+
+[SCENE 03: 废弃公寓楼外 — 夜]
+DURATION: 1:20–2:10
+VISUAL: 蓝红警灯交替闪烁
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 苏云从法医车上下来，小跑进入现场。
+
+SHOT_09:
+  TYPE: TWO-SHOT
+  DESC: 苏云蹲在尸体旁检查，沈无名站在她身后。
+
+DIALOGUE:
+  苏云: "死亡时间大约6小时前。致命伤在颈部，但……"
+  苏云: (皱眉) "伤口形状很奇怪，像是……刀，但不是现代刀具。"
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 沈无名从风衣内袋取出一本泛黄的册子——阴阳案录。翻开，目光停留。
+
+DIALOGUE:
+  沈无名: (内心独白) "第一世的死法……一模一样。"
+
+SFX: 翻页声 + 心跳加速
+
+---
+
+[SCENE 04: 街道 — 夜]
+DURATION: 2:10–2:50
+VISUAL: 路灯冷光，沈无名独行
+
+SHOT_11:
+  TYPE: LONG → MEDIUM
+  DESC: 沈无名离开现场，独自走在空旷的街道上。风衣衣角被夜风掀起。
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 他从口袋中取出一枚古铜钱，正面刻着一个"顾"字。拇指摩挲铜钱表面。
+
+DIALOGUE:
+  沈无名: (低声) "九百年了。"
+  沈无名: "你又开始了。"
+
+SFX: 铜钱摩擦声 + 远处钟声
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+VISUAL: 黑屏 → 碎镜闪回
+
+SHOT_13:
+  TYPE: FLASH_CUT
+  DESC: 快速闪回——碎镜中的官袍影像，但这次更清晰：官袍上绣着"阴阳判官"四字。
+
+SHOT_14:
+  TYPE: BLACK_SCREEN + TEXT
+  DESC: 黑屏，白色楷体字缓缓浮现——
+
+TEXT_ON_SCREEN: "镜中死者，非死于镜——死于九世未解之局。"
+
+SFX: 镜面碎裂声 → 静默
+
+---
+
+[END OF EPISODE 01]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E02 旧伤口
+HOOK: "检察长大人，握手的时候……您的扳指，硌到我了。"

@@ -1,0 +1,155 @@
+# CHARACTER BIBLE — 《九世轮回·阴阳司》第一季
+# Format: SEKO v2.0 Character Document
+# Author: Bin-AI
+
+---
+
+[CHARACTER: 沈无名]
+TYPE: PROTAGONIST
+AGE: 30（现世外表年龄）
+GENDER: 男
+APPEARANCE:
+  - 身高：182cm，偏瘦但有力量感
+  - 发色：黑，略长，常遮住一侧眼睛
+  - 眼神：深邃，平静时如深潭，动怒时金芒一闪
+  - 常服：黑色风衣，白衬衫，无领带
+  - 特征：右手腕内侧，淡淡的古篆纹路（判官印记）
+PERSONALITY:
+  - 出场即巅峰：9世经历使他极度沉稳，无所畏惧
+  - 情绪极度内敛，但对苏云有独特的温柔
+  - 逻辑缜密，直觉超强，几乎不犯错
+  - 唯一软肋：第五世的错判造成的罪业感
+ABILITIES:
+  - 跨世记忆：可主动或被动进入前世回忆
+  - 镜中感知：能从破碎镜面中读取残留影像
+  - 判官直觉：天生感知"天道因果"的偏差
+NINE_WORLD_IDENTITIES:
+  - W1: 捕头·沈刀 | 大梁·武德三年
+  - W2: 仵作·苏仁 | 大梁（同期）
+  - W3: 锦衣卫密探·沈影 | 明代
+  - W4: 神机营火器官·沈炮 | 明代（后期）
+  - W5: 通判·沈判 | 清代
+  - W6: 御史大夫·沈谏 | 清代（后期）
+  - W7: 私家侦探·沈寻 | 民国
+  - W8: 刑警·沈明 | 1990年代
+  - W9: 刑警队分析师·沈无名 | 现代
+TRUE_IDENTITY: 阴阳判官（九世前，天道执法者，因一次错误进入轮回）
+COLOR_THEME: 黑·白·古铜金
+BGM_THEME: cold_theme_piano + ancient_guqin_hybrid
+
+---
+
+[CHARACTER: 顾廷渊]
+TYPE: ANTAGONIST / FINAL_BOSS
+AGE: 55
+GENDER: 男
+APPEARANCE:
+  - 身高：178cm，保养极好，看起来像45岁
+  - 发色：黑中带银，整齐梳理
+  - 眼神：永远带笑，深不可测
+  - 常服：深灰色西装，白口袋巾
+  - 特征：右手无名指·古铜色扳指（顾氏传家宝，纹路是封印符文）
+PERSONALITY:
+  - 表面：温文儒雅，亲切随和，广受尊重
+  - 内里：冷酷、偏执、目的性极强
+  - 对沈无名的态度：尊重+恐惧+猎人般的占有欲
+  - 信念：顾家九代使命「判官必诛」不可违
+ABILITIES:
+  - 九代传承记忆：继承顾氏九代对判官的追杀经验
+  - 社会操控：在司法系统拥有绝对话语权
+  - 封印仪式：掌握顾氏家族秘传的祭坛封印术
+BACKSTORY:
+  - 顾氏家族自大梁开始，世代执行"诛判官"的使命
+  - 九百年来每一代都会找到并杀死转世的阴阳判官
+  - 顾廷渊是第九代传人，也是最后一代
+  - 内心深处对沈无名有着复杂情感：宿敌、知己、必须亲手终结的存在
+COLOR_THEME: 深灰·银·暗红
+BGM_THEME: elegant_strings + dark_choir_whisper
+
+---
+
+[CHARACTER: 苏云]
+TYPE: HEROINE / DEUTERAGONIST
+AGE: 27
+GENDER: 女
+APPEARANCE:
+  - 身高：165cm，清秀温婉
+  - 发色：深棕色，扎低马尾
+  - 眼神：明亮中带有一丝莫名的忧伤
+  - 常服：白色实验袍内搭浅蓝毛衣
+  - 特征：左耳后有一个小小的胎记（仵作苏仁刀疤的轮回印记）
+PERSONALITY:
+  - 聪明、细心、有正义感
+  - 对死亡和真相有超越常人的执念
+  - 对沈无名有直觉般的信任和吸引
+  - 第二世记忆偶尔以直觉形式显现
+ABILITIES:
+  - 法医专业技能：顶尖法医学素养
+  - 前世直觉：偶尔对古代验尸手法有惊人的熟悉感
+  - 情感连结：与沈无名之间存在跨世的情感纽带
+PAST_LIFE: 第二世·仵作苏仁（大梁时期，被顾御史伪造自杀灭口）
+COLOR_THEME: 白·浅蓝·淡粉
+BGM_THEME: soft_piano + wind_chime_echo
+
+---
+
+[CHARACTER: 马绍峰]
+TYPE: SUPPORTING / ALLY
+AGE: 45
+GENDER: 男
+APPEARANCE:
+  - 身高：175cm，壮实
+  - 发色：短寸，夹杂白发
+  - 眼神：刚毅中透着疲惫
+  - 常服：深蓝夹克，永远别着警徽
+  - 特征：右眉上方有一道旧疤（十年前追捕留下）
+PERSONALITY:
+  - 正直、耿直、不善言辞
+  - 对沈无名从怀疑到信任
+  - 受制于体制，有时不得不妥协
+  - 关键时刻会站出来
+COLOR_THEME: 深蓝·灰
+BGM_THEME: steady_drum + muted_brass
+
+---
+
+[CHARACTER: 周辉]
+TYPE: SUPPORTING / DOUBLE_AGENT
+AGE: 32
+GENDER: 男
+APPEARANCE:
+  - 身高：170cm，普通
+  - 发色：短发，干净利落
+  - 常服：便装为主
+PERSONALITY:
+  - 表面：热心、勤快、讨好型人格
+  - 内里：胆小、自私、被顾廷渊抓住把柄后沦为内鬼
+  - 有良知，最终选择赎罪
+ROLE_IN_STORY:
+  - 刑警队内勤，负责证据管理
+  - 被顾廷渊利用，泄露队内调查进展
+  - E07暴露，E21协助沈无名反击
+COLOR_THEME: 灰·暗黄
+BGM_THEME: nervous_pizzicato
+
+---
+
+[CHARACTER: 林婉]
+TYPE: SUPPORTING / VICTIM_CATALYST
+AGE: 28
+GENDER: 女
+APPEARANCE:
+  - 身高：168cm，妆容精致
+  - 常服：职业套裙
+PERSONALITY:
+  - 独立、要强、有野心
+ROLE_IN_STORY:
+  - E01第一具尸体的发现者
+  - 后被证明与顾氏家族有间接关联
+  - 她的失踪推动了E11假死局的展开
+COLOR_THEME: 红·黑
+BGM_THEME: tension_strings
+
+---
+
+# END OF CHARACTER BIBLE

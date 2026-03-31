@@ -1,0 +1,141 @@
+# EPISODE 05 — 血线图
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 05
+TITLE: 血线图
+SUBTITLE: The Blood-Line Map
+TIMELINE: 现代·深夜
+FOCUS_CHARACTER: 沈无名
+THEME: 九宫八卦阵·中心指向检察院
+COLOR_TONE: 深蓝 + 红线 + 金色阵图
+BGM: obsessive_investigation → map_revelation → ancient_array_drone
+
+---
+
+[SCENE 01: 刑警队办公室 — 深夜]
+DURATION: 0:00–0:40
+VISUAL: 空旷的办公室，只有沈无名桌上的台灯亮着
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 深夜办公室，所有人都已离开。沈无名独自坐在桌前，面前铺开一张巨大的城市地图。
+
+SHOT_02:
+  TYPE: OVERHEAD
+  DESC: 俯拍——地图上已经标记了两个案发地点，用红色图钉固定。
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 沈无名翻开阴阳案录，手指在古老的阵图页面上滑过。
+
+DIALOGUE:
+  沈无名: (内心独白) "阴阳案录里记载过一种古阵——九宫八卦困魂阵。"
+  沈无名: "九个节点，八条连线，困住的……是判官的魂。"
+
+SFX: 翻页声 + 钟表滴答
+
+---
+
+[SCENE 02: 刑警队办公室 — 深夜（续）]
+DURATION: 0:40–1:50
+VISUAL: 红线在地图上逐渐连接
+
+SHOT_04:
+  TYPE: INSERT
+  DESC: 沈无名用红色细线连接两个案发地点。然后从阴阳案录中找到阵图规律。
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 他开始标注更多地点——根据阵图规律推算出剩余七个节点的位置。
+
+DIALOGUE:
+  沈无名: "如果凶手按照九宫八卦阵布局……第三个点应该在……"
+
+SHOT_06:
+  TYPE: INSERT
+  DESC: 手指在地图上精准落下——城西废弃工厂。
+
+SHOT_07:
+  TYPE: MONTAGE
+  DESC: 快速蒙太奇——沈无名一个接一个标注剩余节点：
+  - 第四点：旧城区地下停车场
+  - 第五点：河东古桥下
+  - 第六点：北山废弃寺庙
+  - 第七点：南郊火葬场旧址
+  - 第八点：城中心钟楼
+  - 第九点：市检察院
+
+SHOT_08:
+  TYPE: OVERHEAD → ZOOM_OUT
+  DESC: 俯拍地图——九个红色图钉，八条红线连接，形成完美的九宫八卦阵。
+
+SFX: 每标一个点，一声低沉钟响
+
+---
+
+[SCENE 03: 关键发现]
+DURATION: 1:50–2:30
+VISUAL: 地图特写 → 沈无名反应
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 九宫阵的正中心——一根红线交叉点——精准落在市检察院的位置。
+
+DIALOGUE:
+  沈无名: (瞳孔收缩) "中心……是检察院。"
+
+SHOT_10:
+  TYPE: INSERT
+  DESC: 阴阳案录上的古阵图与现代地图叠加——两者完全重合。
+
+DIALOGUE:
+  沈无名: "这个阵法不是凶手发明的。它存在了九百年。"
+  沈无名: "而九百年前……检察院的位置，是大梁刑部。"
+
+SHOT_11:
+  TYPE: MEDIUM
+  DESC: 沈无名靠回椅背，目光冰冷。
+
+DIALOGUE:
+  沈无名: "顾氏家族……从第一世开始，就在同一个地点布阵。"
+  沈无名: (低声) "他们不只是在杀我——他们在封印我。"
+
+SFX: 低频嗡鸣 + 古老梵唱（极低）
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+VISUAL: 对比画面
+
+SHOT_12:
+  TYPE: SPLIT_SCREEN
+  DESC: 左侧——沈无名凝视地图上检察院的位置；右侧——检察院大楼夜景，顾廷渊办公室的灯还亮着。
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊的办公桌上，摆着一张同样的城市地图，九个点已经全部标好。他端起茶杯，啜饮。
+
+DIALOGUE:
+  顾廷渊: (微笑) "你发现了？……不愧是第九世。"
+
+SHOT_14:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "九宫落定，八卦成阵。猎场的中心，从来都是猎人的巢穴。"
+
+SFX: 古阵嗡鸣 → 静默
+
+---
+
+[END OF EPISODE 05]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E06 第二世影
+HOOK: "苏云解剖时突然换了一种手法——那是大梁仵作才会用的刀法。"

@@ -1,0 +1,149 @@
+# EPISODE 09 — 第三世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 09
+TITLE: 第三世影
+SUBTITLE: Shadow of the Third Life
+TIMELINE: 现代 → 第三世·明代
+FOCUS_CHARACTER: 沈无名 / 沈影
+THEME: 锦衣卫沈影·被出卖死于诏狱
+COLOR_TONE: 现代冷蓝 → 明代暗红 + 烛火黄
+BGM: mirror_drone → transition_pipa → ming_court_tension → prison_requiem
+
+---
+
+[SCENE 01: 沈无名公寓 — 夜]
+DURATION: 0:00–0:20
+VISUAL: 昏暗公寓，碎镜片排列在桌上
+
+SHOT_01:
+  TYPE: MEDIUM
+  DESC: 沈无名将案发现场收集的碎镜片按顺序排列。当最后一片放入——
+
+SHOT_02:
+  TYPE: INSERT
+  DESC: 碎镜突然泛起暗红色光芒，镜面中浮现模糊的明代宫殿影像。
+
+SFX: 金属共鸣 → 时空转换
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 沈无名被拉入第三世记忆——
+
+TRANSITION: 画面碎裂重组为明代场景。
+
+---
+
+[SCENE 02: 明代·锦衣卫密所 — 夜]
+DURATION: 0:20–1:00
+VISUAL: 阴暗密室，烛火摇曳，墙上挂满情报
+
+SHOT_04:
+  TYPE: WIDE
+  DESC: 明代锦衣卫密所。沈影身着飞鱼服，面容冷峻，正在整理抄没的证据。
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 沈影将一本账册锁入暗格。
+
+DIALOGUE:
+  沈影: (低声) "顾太监贪墨军饷、私通番邦，铁证如山。"
+  沈影: "明日呈报指挥使，此案可定。"
+
+SHOT_06:
+  TYPE: CLOSE-UP
+  DESC: 沈影抬头，目光警惕——密室外传来异常的脚步声。
+
+SFX: 脚步声（多人）+ 盔甲碰撞声
+
+---
+
+[SCENE 03: 明代·诏狱 — 夜]
+DURATION: 1:00–2:15
+VISUAL: 阴暗牢狱，铁链声回响
+
+SHOT_07:
+  TYPE: WIDE
+  DESC: 沈影被押入诏狱。双手铁链锁住，飞鱼服被剥去。
+
+DIALOGUE:
+  沈影: "指挥使！我查的是顾太监——你答应过保我的！"
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 牢门外，指挥使面无表情地站着。他身后——顾太监的身影若隐若现。
+
+DIALOGUE:
+  指挥使: "沈影，顾公公已经向圣上进言。你……被定了通敌之罪。"
+  沈影: (怒目) "我通的什么敌？！证据都在密所——"
+  指挥使: (低头) "密所……昨夜失火。什么都没了。"
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 沈影的眼中——绝望、愤怒、不甘交织。
+
+SHOT_10:
+  TYPE: MEDIUM
+  DESC: 牢门关上。沈影跪在牢中，用指甲在墙壁上一笔一画地刻字。
+
+SFX: 指甲刮石声（刺耳）
+
+SHOT_11:
+  TYPE: INSERT
+  DESC: 墙壁上逐渐出现八个字——"九世不绝，判官不死"。
+
+DIALOGUE:
+  沈影: (声音嘶哑) "就算这一世死了……我还会回来。"
+  沈影: "顾家……我每一世都会回来找你。"
+
+SHOT_12:
+  TYPE: WIDE
+  DESC: 诏狱深处传来行刑者的脚步声。沈影闭目，铜钱在掌心。
+
+SFX: 脚步声渐近 → 刀落声 → 寂静
+
+---
+
+[SCENE 04: 回到现代]
+DURATION: 2:15–2:50
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 沈无名猛然睁眼，指尖有刮痕——仿佛刚刚真的在刻字。
+
+DIALOGUE:
+  沈无名: (低声) "第三世……死于信任。"
+  沈无名: "被最信任的人出卖……和周辉的模式一样。"
+
+SHOT_14:
+  TYPE: INSERT
+  DESC: 桌上碎镜中，明代诏狱墙壁上的"九世不绝，判官不死"八个字缓缓消隐。
+
+DIALOGUE:
+  沈无名: (内心独白) "九世不绝……是诅咒，还是誓言？"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_15:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "三世追凶，三世被杀。刻在狱墙上的，不是遗言——是判决。"
+
+SFX: 铁链拖地声 → 静默
+
+---
+
+[END OF EPISODE 09]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E10 镜碎了
+HOOK: "镜子里的人穿着官袍……那个人……是我？"

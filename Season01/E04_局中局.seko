@@ -1,0 +1,156 @@
+# EPISODE 04 — 局中局
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 04
+TITLE: 局中局
+SUBTITLE: Trap Within a Trap
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 苏云
+THEME: 第二具尸体·证据指向沈无名
+COLOR_TONE: 冷蓝灰 + 警示红
+BGM: investigation_pulse → evidence_reveal → suspicion_strings
+
+---
+
+[SCENE 01: 河边公园·案发现场 — 晨]
+DURATION: 0:00–0:50
+VISUAL: 清晨薄雾，河岸边拉起警戒线
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 河边公园，薄雾弥漫。警戒线内，第二具尸体仰面朝天，双手交叠于胸前。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 沈无名与马绍峰并肩走向现场。
+
+DIALOGUE:
+  马绍峰: "又一个。死法和第一具对称——第一具面朝碎镜，这具面朝天空。"
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 尸体手中握着一张照片。苏云小心翼翼取出——
+
+SHOT_04:
+  TYPE: INSERT
+  DESC: 照片特写——是沈无名的证件照，背面手写一行字："第九世，该你了。"
+
+SFX: 快门声 → 沉默
+
+DIALOGUE:
+  马绍峰: (看向沈无名) "……这怎么解释？"
+  沈无名: (面不改色) "有人想让我成为嫌疑人。"
+
+---
+
+[SCENE 02: 法医检验室 — 日]
+DURATION: 0:50–1:40
+VISUAL: 白色灯光，不锈钢台面
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 苏云在检验台前工作，放大镜下观察尸体颈部伤口。
+
+SHOT_06:
+  TYPE: CLOSE-UP
+  DESC: 伤口边缘——苏云用棉签提取残留物。
+
+DIALOGUE:
+  苏云: "伤口深度、角度和第一具完全一致。同一种凶器。"
+  苏云: (停顿) "但是这次……伤口边缘有古篆标记。像是烙印上去的。"
+
+SHOT_07:
+  TYPE: INSERT
+  DESC: 古篆标记的放大图像——与沈无名手腕上的判官印记完全一致。
+
+SHOT_08:
+  TYPE: TWO-SHOT
+  DESC: 苏云抬头看向站在一旁的沈无名，目光复杂。
+
+DIALOGUE:
+  苏云: "沈分析师……这个标记，和你手腕上的……"
+  沈无名: (平静地卷起袖口，露出判官印记) "一样。我知道。"
+
+SFX: 荧光灯嗡鸣
+
+---
+
+[SCENE 03: 刑警队会议室 — 日]
+DURATION: 1:40–2:30
+VISUAL: 投影幕布上罗列两起案件对比
+
+SHOT_09:
+  TYPE: WIDE
+  DESC: 会议室内，几名刑警围坐。马绍峰站在投影前。
+
+SHOT_10:
+  TYPE: MEDIUM
+  DESC: 投影上并排展示——两具尸体的现场照片、伤口比对、古篆标记对比。
+
+DIALOGUE:
+  马绍峰: "两起案件，死法对称，凶器一致，现场都留有古篆标记。"
+  马绍峰: "最棘手的是——所有物证都指向我们自己人。"
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的脸，平静但眼底有一丝寒意。
+
+DIALOGUE:
+  沈无名: "凶手不是要杀人。他在布局。"
+  沈无名: "两具尸体是棋子，而棋盘……还没有展开。"
+
+SHOT_12:
+  TYPE: MEDIUM
+  DESC: 会议室门被推开——周辉急匆匆走入。
+
+DIALOGUE:
+  周辉: "马队！技术科有发现——死者手中照片的指纹，是沈分析师的。"
+
+SHOT_13:
+  TYPE: WIDE
+  DESC: 所有人的目光聚焦在沈无名身上。沉默。
+
+DIALOGUE:
+  沈无名: (站起身) "指纹是我的没错。但这张照片，我从未见过。"
+  沈无名: "有人能复制我的指纹——这意味着他比我想象的更了解我。"
+
+SFX: 椅子推动声 → 紧张弦乐
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+VISUAL: 走廊长镜头
+
+SHOT_14:
+  TYPE: LONG
+  DESC: 沈无名独自走在刑警队走廊中，背影孤独。
+
+SHOT_15:
+  TYPE: CLOSE-UP
+  DESC: 他低头看手腕——判官印记此刻正在微微发光。
+
+DIALOGUE:
+  沈无名: (内心独白) "他在模仿我的前世死法，用我的印记做标记，把我的指纹留在现场。"
+  沈无名: "这不是凶杀案——这是给我设的九世之局。"
+
+SHOT_16:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "局中有局，猎人亦是猎物。"
+
+SFX: 心跳声 → 戛然而止
+
+---
+
+[END OF EPISODE 04]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E05 血线图
+HOOK: "九个地点，九条线——它们在地图上画出了一个阵法，中心是市检察院。"

@@ -1,0 +1,154 @@
+# EPISODE 06 — 第二世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 06
+TITLE: 第二世影
+SUBTITLE: Shadow of the Second Life
+TIMELINE: 现代 → 第二世·大梁
+FOCUS_CHARACTER: 苏云 / 苏仁
+THEME: 仵作苏仁·苏云的前世
+COLOR_TONE: 现代白色实验室 → 大梁暖黄铜色
+BGM: forensic_calm → transition_erhu → ancient_autopsy_tension → blood_writing_sting
+
+---
+
+[SCENE 01: 法医检验室 — 日]
+DURATION: 0:00–0:35
+VISUAL: 白色灯光，苏云独自工作
+
+SHOT_01:
+  TYPE: MEDIUM
+  DESC: 苏云在检验台前处理第二具尸体的组织样本，动作专注。
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 她的手突然停住——下意识拿起解剖刀，以一种从未学过的角度切入。
+
+DIALOGUE:
+  苏云: (自言自语) "……这个手法……我什么时候会的？"
+
+SHOT_03:
+  TYPE: INSERT
+  DESC: 解剖刀的切割路径——精确、古朴，与现代法医教程完全不同。
+
+SFX: 金属划过声 → 时空转换音效
+
+SHOT_04:
+  TYPE: CLOSE-UP
+  DESC: 苏云瞳孔放大，意识被拉入一段陌生的记忆——
+
+TRANSITION: 画面从白色实验室化为暖黄色古代场景。
+
+---
+
+[SCENE 02: 大梁·仵作房 — 日]
+DURATION: 0:35–1:30
+VISUAL: 古代仵作房，阴暗潮湿，烛火摇曳
+
+SHOT_05:
+  TYPE: WIDE
+  DESC: 大梁京城仵作房。年轻的仵作苏仁（与苏云容貌高度相似）正在验尸。
+
+SHOT_06:
+  TYPE: MEDIUM
+  DESC: 苏仁用同样的古朴刀法检验一具官员尸体，目光锐利。
+
+DIALOGUE:
+  苏仁: "死因不是自缢。颈部淤痕是死后伪造的。真正致命伤在后脑——钝器击打。"
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 苏仁翻看尸体衣袍，发现内衬缝有一封密信。
+
+DIALOGUE:
+  苏仁: (低声) "这封信……是弹劾顾御史的奏折。"
+  苏仁: "他是被灭口的。"
+
+SFX: 烛火摇曳声 + 远处脚步声
+
+---
+
+[SCENE 03: 大梁·苏仁住所 — 夜]
+DURATION: 1:30–2:20
+VISUAL: 简陋住所，月光透过窗棂
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 苏仁在昏暗灯下奋笔疾书，记录验尸发现。
+
+SHOT_09:
+  TYPE: WIDE
+  DESC: 门被踹开，数名黑衣人涌入。为首者递上一纸文书。
+
+DIALOGUE:
+  黑衣人: "仵作苏仁，你的验尸报告已被驳回。顾御史令——此案结案，死因为自缢。"
+
+DIALOGUE:
+  苏仁: "验尸结果不可更改！他是被人杀害的——"
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 黑衣人按住苏仁，另一人将绳索套上苏仁的脖子。
+
+DIALOGUE:
+  黑衣人: (冷声) "既然你说不是自缢……那就让你也变成自缢。"
+
+SHOT_11:
+  TYPE: INSERT
+  DESC: 苏仁拼死挣扎，指尖蘸血在墙壁上写下一个字——"顾"。
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 苏仁的眼睛渐渐失去光芒。最后看到的是——墙上未干的血字。
+
+SFX: 绳索勒紧声 → 呼吸断绝 → 寂静
+
+---
+
+[SCENE 04: 回到现代 — 法医检验室]
+DURATION: 2:20–2:50
+VISUAL: 苏云猛然回神
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 苏云猛然清醒，手中的解剖刀掉在地上。她浑身颤抖，眼含泪水。
+
+DIALOGUE:
+  苏云: (颤声) "我看到了……一个人被杀……她用血在墙上写了一个字……"
+
+SHOT_14:
+  TYPE: MEDIUM
+  DESC: 沈无名出现在检验室门口。他看着苏云的状态，目光中有深深的心疼和了然。
+
+DIALOGUE:
+  沈无名: (轻声) "苏仁。那是你的名字——在另一个时代。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_15:
+  TYPE: INSERT
+  DESC: 闪回——苏仁墙上的血字"顾"→ 现代案发现场的古篆标记。完全一致。
+
+SHOT_16:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "前世的血书，是今生的证据。"
+
+SFX: 古筝一声拨弦 → 静默
+
+---
+
+[END OF EPISODE 06]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E07 内鬼现
+HOOK: "周辉，你昨晚十一点打的那个电话——对方号码，我已经查到了。"

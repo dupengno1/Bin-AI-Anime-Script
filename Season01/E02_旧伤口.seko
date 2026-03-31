@@ -1,0 +1,151 @@
+# EPISODE 02 — 旧伤口
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 02
+TITLE: 旧伤口
+SUBTITLE: Old Wounds
+TIMELINE: 现代·白天
+FOCUS_CHARACTER: 沈无名, 顾廷渊
+THEME: 首次接触·暗流涌动
+COLOR_TONE: 冷白日光 + 检察院灰
+BGM: calm_surface_tension → encounter_strings → sting_on_ring
+
+---
+
+[SCENE 01: 刑警队办公室 — 日]
+DURATION: 0:00–0:40
+VISUAL: 明亮的办公环境，但气氛凝重
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 开放式办公区，几名刑警在忙碌。白板上贴满案件照片。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 马绍峰站在白板前，面色严肃。
+
+DIALOGUE:
+  马绍峰: "镜中死案，上面很关注。市检察院派人来督办。"
+  马绍峰: (看向沈无名) "沈分析师，你的初步分析？"
+
+SHOT_03:
+  TYPE: MEDIUM_CLOSE
+  DESC: 沈无名站起身，将阴阳案录放入风衣内袋。
+
+DIALOGUE:
+  沈无名: "凶手不是随机作案。九片碎镜，每一片的切割角度都经过精密计算。"
+  沈无名: "这不是杀人——是仪式。"
+
+SFX: 办公室背景音 → 安静
+
+---
+
+[SCENE 02: 市检察院走廊 — 日]
+DURATION: 0:40–1:40
+VISUAL: 大理石走廊，光线冷白
+
+SHOT_04:
+  TYPE: TRACKING
+  DESC: 沈无名走在检察院走廊中，脚步回响。
+
+SHOT_05:
+  TYPE: WIDE → MEDIUM
+  DESC: 走廊尽头，一个身影逆光而立。随着沈无名走近，身影渐清——
+
+SHOT_06:
+  TYPE: MEDIUM
+  DESC: 顾廷渊，深灰西装，白口袋巾，微笑着迎上前。
+
+DIALOGUE:
+  顾廷渊: "沈分析师？久仰。我是顾廷渊，负责督办此案。"
+
+SHOT_07:
+  TYPE: TWO-SHOT → INSERT
+  DESC: 两人握手。镜头推进至手部特写——顾廷渊右手无名指上的古铜扳指，紧紧抵住沈无名的手掌。
+
+SFX: 低频共鸣（极短）
+
+SHOT_08:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的脸。眼神几乎不可察觉地变化——瞳孔微缩，右手腕内侧的古篆纹路隐隐发光。
+
+DIALOGUE:
+  沈无名: (平静) "顾检察长，幸会。"
+  沈无名: (内心独白) "这个温度……这枚扳指的触感……我记得。"
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊的微笑，眼底深不可测。
+
+DIALOGUE:
+  顾廷渊: "希望我们合作愉快。毕竟……这案子，可不简单。"
+
+---
+
+[SCENE 03: 检察院停车场 — 日]
+DURATION: 1:40–2:30
+VISUAL: 地下停车场，灯光昏暗
+
+SHOT_10:
+  TYPE: MEDIUM
+  DESC: 沈无名独自走向车辆，步伐比来时慢。
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 他摊开右手——掌心处，扳指压出的痕迹。纹路与古铜镜碎片上的花纹完全一致。
+
+DIALOGUE:
+  沈无名: (低声) "顾氏扳指……第一世的时候，刑部侍郎也戴着这枚。"
+
+SHOT_12:
+  TYPE: INSERT
+  DESC: 闪回画面——第一世，大梁，刑部侍郎顾某举起戴着同一枚扳指的手，命令行刑。
+
+SFX: 古代刀刃出鞘声（极短闪回）
+
+SHOT_13:
+  TYPE: MEDIUM
+  DESC: 沈无名靠在车门上，取出铜钱，与掌心的扳指纹路比对。完全吻合。
+
+DIALOGUE:
+  沈无名: (内心独白) "九百年，同一枚扳指，同一个家族。"
+  沈无名: "顾廷渊……你是第几代？"
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+VISUAL: 分屏对比
+
+SHOT_14:
+  TYPE: SPLIT_SCREEN
+  DESC: 左侧——沈无名在车内翻开阴阳案录；右侧——顾廷渊在办公室端起茶杯，嘴角含笑。
+
+SHOT_15:
+  TYPE: CLOSE-UP (顾廷渊)
+  DESC: 顾廷渊放下茶杯，手指轻轻转动扳指。
+
+DIALOGUE:
+  顾廷渊: (对空气低语) "九百年了……你终于又来了。"
+
+SFX: 茶杯放下的清脆声 → 沉默 → 心跳声渐起
+
+SHOT_16:
+  TYPE: BLACK_SCREEN + TEXT
+  DESC: 黑屏。
+
+TEXT_ON_SCREEN: "旧伤未愈，新局已开。"
+
+---
+
+[END OF EPISODE 02]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E03 前世刀
+HOOK: "武德三年的雪夜，捕头沈刀死在了自己追查的真相面前。"
