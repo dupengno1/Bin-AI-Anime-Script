@@ -1,0 +1,140 @@
+# EPISODE 24 — 祭坛启动
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 24
+TITLE: 祭坛启动
+SUBTITLE: The Altar Activates
+TIMELINE: 现代·月圆之夜
+FOCUS_CHARACTER: 顾廷渊, 沈无名
+THEME: 顾廷渊启动仪式·封印判官魂
+COLOR_TONE: 月光银白 + 祭坛血红金光
+BGM: ritual_prelude → altar_activation → eight_souls_chorus → confrontation_climax
+
+---
+
+[SCENE 01: 废弃仓库外 — 夜]
+DURATION: 0:00–0:30
+VISUAL: 满月高悬，仓库周围异常安静
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 月圆之夜。废弃仓库被月光笼罩，周围寂静无声。但仓库内部透出微弱的金红色光芒。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 沈无名隐蔽在仓库外的暗处，身旁是苏云和马绍峰。
+
+DIALOGUE:
+  马绍峰: (低声) "你确定？顾廷渊——市检察长——在一个废弃仓库里搞邪教仪式？"
+  沈无名: "不是邪教。比邪教更古老。"
+  苏云: "我在里面被关过。那个祭坛……是真的。"
+
+SFX: 风声 + 远处野犬吠叫
+
+---
+
+[SCENE 02: 九世祭坛 — 夜]
+DURATION: 0:30–1:40
+VISUAL: 祭坛全面激活，八格发光
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 地下祭坛。八格全部发出强烈的金红色光芒。顾廷渊独自站在祭坛中央，面向古铜镜。
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 顾廷渊卸下西装外套，露出内穿的黑色祭服——上面绣着顾氏家徽。他右手扳指发出与祭坛同频的光芒。
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊闭目，双手结印。低声念诵古老的祭词——大梁古语。
+
+DIALOGUE:
+  顾廷渊: (大梁古语) "九世轮回，九魂归一。天道之刃，顾氏执之——"
+  顾廷渊: "判官之魂，永灭不复。"
+
+SFX: 低频共振（强烈）+ 古老梵唱
+
+SHOT_06:
+  TYPE: WIDE
+  DESC: 八格中的物品——古刀、绳索、腰牌、火绳、判官印、奏折、礼帽、手铐——同时浮空旋转。
+
+SHOT_07:
+  TYPE: INSERT
+  DESC: 每件物品中释放出一道半透明的光影——八世判官的虚影。他们面容模糊，但都看向第九格。
+
+---
+
+[SCENE 03: 沈无名闯入]
+DURATION: 1:40–2:30
+VISUAL: 对峙·祭坛中心
+
+SHOT_08:
+  TYPE: WIDE
+  DESC: 地下入口处——沈无名冲入。他的身后，马绍峰和苏云紧随。
+
+SHOT_09:
+  TYPE: TWO-SHOT
+  DESC: 沈无名与顾廷渊隔着祭坛对视。八个虚影在他们之间旋转。
+
+DIALOGUE:
+  沈无名: "顾廷渊！"
+  顾廷渊: (睁眼，微笑) "你来了。我知道你会来。"
+  顾廷渊: "事实上——如果你不来，仪式无法完成。"
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的判官印记在疯狂发光——与祭坛产生共鸣。
+
+DIALOGUE:
+  沈无名: "你需要我主动走进来？"
+  顾廷渊: "需要第九个判官之魂——也就是你——亲自踏入祭坛范围。"
+  顾廷渊: (微笑) "你已经做到了。"
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 祭坛的光芒猛然增强——第九格中的古铜镜开始发出刺眼的白光。
+
+SFX: 光芒爆发音效 + 风暴声
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈无名感到一股力量从脚下升起，试图将他的意识拉入镜中。他咬牙抵抗。
+
+DIALOGUE:
+  沈无名: (咬牙) "我不会……走进去的！"
+  顾廷渊: "你已经在里面了，判官大人。"
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 八个虚影同时转向沈无名，伸出手——像是在呼唤，又像是在拉扯。
+
+SHOT_14:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的眼中——金色光芒与恐惧交织。
+
+SHOT_15:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "祭坛已启，八魂呼唤。第九魂的选择——决定九百年的终局。"
+
+SFX: 八重回声 → 戛然而止
+
+---
+
+[END OF EPISODE 24]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E25 真相碎片
+HOOK: "我不是猎人……我一直是祭品。"

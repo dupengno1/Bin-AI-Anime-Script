@@ -1,0 +1,143 @@
+# EPISODE 28 — 阴阳对决
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 28
+TITLE: 阴阳对决
+SUBTITLE: The Yin-Yang Showdown
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 顾廷渊
+THEME: 法庭对决·顾廷渊被捕·笑而不惧
+COLOR_TONE: 法庭冷白 + 证据金光
+BGM: courtroom_overture → evidence_cascade → arrest_solemnity → enigmatic_smile
+
+---
+
+[SCENE 01: 市中级人民法院 — 日]
+DURATION: 0:00–0:40
+VISUAL: 法庭，庄严肃穆
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 市中级人民法院。旁听席坐满了人——媒体、警方、市政人员。马绍峰带领刑警队坐在一侧。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 沈无名站在原告席前。虽已被停职，但以"关键证人及案件分析师"身份出庭。
+
+SHOT_03:
+  TYPE: MEDIUM
+  DESC: 对面——顾廷渊坐在被告席。西装笔挺，面带微笑，如同出席一场普通的社交活动。
+
+DIALOGUE:
+  法官: "案件编号2026-刑初-0073，被告人顾廷渊，涉嫌组织连环杀人、妨碍司法公正、伪造证据。"
+  法官: "现在由证人沈无名进行陈述。"
+
+SFX: 法槌声 + 法庭庄严BGM
+
+---
+
+[SCENE 02: 九世证据链]
+DURATION: 0:40–1:50
+VISUAL: 证据逐一呈堂
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 沈无名站在证人台上。他的面前，按顺序排列着所有证据。
+
+DIALOGUE:
+  沈无名: "九百年前的事，无法在法庭上作为证据。但现代的证据——足够了。"
+
+SHOT_05:
+  TYPE: INSERT_MONTAGE
+  DESC: 证据逐一呈堂——
+  1. 顾廷渊手机中的加密语音记录（"第九格，准备好了"）
+  2. 九世祭坛的现场照片和物证
+  3. 地下室墙壁上的九种死法刻痕（与案件死法吻合）
+  4. 顾氏族谱中的"判官必诛"祖训及祭坛蓝图
+  5. 周辉的完整证词（顾廷渊指使泄密和栽赃）
+  6. 第八世沈明的录音机内容（涉及顾氏家族系统性犯罪）
+  7. 林婉绑架案现场的顾廷渊助理DNA
+  8. 案发现场碎镜上的扳指纹路与顾廷渊扳指的精确匹配
+
+DIALOGUE:
+  沈无名: "八项现代证据，形成完整证据链。"
+  沈无名: "被告人顾廷渊通过其家族网络，策划并实施了系列犯罪。"
+  沈无名: "同时伪造证据嫁祸于我，意图毁灭案件真相。"
+
+SFX: 法庭记录员打字声 + 旁听席低语
+
+---
+
+[SCENE 03: 顾廷渊的反应]
+DURATION: 1:50–2:30
+VISUAL: 顾廷渊的从容
+
+SHOT_06:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊听完所有证据陈述。他的表情没有丝毫变化——依然是那个温文儒雅的微笑。
+
+DIALOGUE:
+  法官: "被告人顾廷渊，你对以上指控有何回应？"
+
+SHOT_07:
+  TYPE: MEDIUM
+  DESC: 顾廷渊站起身，整理了一下袖口。
+
+DIALOGUE:
+  顾廷渊: "法官大人，证据确凿，我无话可说。"
+  (法庭一片哗然)
+  顾廷渊: (微笑) "我认罪。"
+
+SHOT_08:
+  TYPE: TWO-SHOT
+  DESC: 沈无名与顾廷渊对视。顾廷渊的眼中——是了然，是解脱，也是某种诡秘的满足。
+
+SHOT_09:
+  TYPE: MEDIUM
+  DESC: 法警上前，为顾廷渊戴上手铐。金属咔嗒声在法庭中回响。
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 戴上手铐的瞬间，顾廷渊低头看了一眼扳指——然后抬头，直视沈无名。
+
+DIALOGUE:
+  顾廷渊: (低声，只有沈无名能听到) "第九格……已经满了。"
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的表情骤变——"第九格已满"意味着封印仪式已经在某个他不知道的时刻完成了。
+
+DIALOGUE:
+  沈无名: (内心独白) "不对……他太平静了。"
+  沈无名: "认罪太干脆。他根本不在乎法庭——因为他已经完成了他要做的事。"
+  沈无名: "第九格……什么时候满的？"
+
+SHOT_12:
+  TYPE: WIDE
+  DESC: 顾廷渊被带出法庭。经过沈无名身边时，微微侧头，嘴角勾起——笑而不惧。
+
+SHOT_13:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "法庭上的胜利——可能是另一场局的开始。"
+
+SFX: 手铐咔嗒声回响 → 静默
+
+---
+
+[END OF EPISODE 28]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E29 镜中真相
+HOOK: "古铜镜发出最后的光——镜中映出的人，穿着阴阳判官的官袍。那个人是我。"
