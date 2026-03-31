@@ -1,0 +1,149 @@
+# EPISODE 20 — 第七世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 20
+TITLE: 第七世影
+SUBTITLE: Shadow of the Seventh Life
+TIMELINE: 现代 → 第七世·民国
+FOCUS_CHARACTER: 沈无名 / 沈寻
+THEME: 民国侦探沈寻·铜钱证据传世
+COLOR_TONE: 现代冷蓝 → 民国复古暖黄 + 烟雾灰
+BGM: detective_noir → transition_jazz → gunfire_tension → legacy_piano
+
+---
+
+[SCENE 01: 沈无名公寓 — 夜]
+DURATION: 0:00–0:20
+VISUAL: 沈无名独坐，消化镜中对话的信息
+
+SHOT_01:
+  TYPE: MEDIUM
+  DESC: 沈无名坐在沙发上，铜钱在指间翻转。
+
+DIALOGUE:
+  沈无名: (内心独白) "九百年前的天道判官……犯了一个错……被罚入轮回……"
+  沈无名: "我需要看完所有前世。第七世——民国。"
+
+SHOT_02:
+  TYPE: INSERT
+  DESC: 铜钱翻转——正面"顾"字朝上。金光一闪。
+
+SFX: 爵士钢琴过渡 → 时空转换
+
+TRANSITION: 画面化为民国上海弄堂。
+
+---
+
+[SCENE 02: 民国·上海法租界·侦探事务所 — 日]
+DURATION: 0:20–1:00
+VISUAL: 民国上海，旗袍、黄包车、霓虹灯
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 民国上海法租界。一间狭小的侦探事务所，门牌写着"沈寻侦探社"。
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 沈寻身着灰色西装，戴礼帽，叼着烟斗。桌上摊开案卷——调查目标：顾特务头子。
+
+DIALOGUE:
+  沈寻: (自言自语) "顾老板，法租界最大的情报贩子。表面是商人，暗地里——"
+  沈寻: "暗杀、走私、勾结日本人。证据我搜集了三年。"
+
+SHOT_05:
+  TYPE: INSERT
+  DESC: 桌上——除了案卷，还有一枚铜钱。沈寻将铜钱当作幸运符，贴身携带。
+
+---
+
+[SCENE 03: 民国·弄堂深处 — 夜]
+DURATION: 1:00–2:00
+VISUAL: 雨夜弄堂，路灯昏黄
+
+SHOT_06:
+  TYPE: TRACKING
+  DESC: 雨夜。沈寻怀揣证据文件夹，在弄堂中快步穿行。
+
+SHOT_07:
+  TYPE: MEDIUM
+  DESC: 弄堂口，数名黑衣特务拦路。为首者——顾特务头子的副官。
+
+DIALOGUE:
+  副官: "沈先生，顾老板给你两个选择：把证据交出来，拿一百根金条走人；或者——"
+  副官: (亮出手枪) "今晚就留在这条弄堂里。"
+
+SHOT_08:
+  TYPE: CLOSE-UP
+  DESC: 沈寻冷笑。他知道走不掉了。
+
+DIALOGUE:
+  沈寻: "一百根金条？你们顾家九百年来就只会这两招——收买，或者杀。"
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 沈寻身后——一个七八岁的男孩躲在角落。沈寻注意到了他。
+
+SHOT_10:
+  TYPE: INSERT
+  DESC: 沈寻趁特务不注意，将铜钱和一封信塞入男孩手中。用口型无声地说："跑。别回头。"
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 男孩消失在弄堂深处。枪响。沈寻倒在雨中。
+
+SFX: 枪声 × 3 → 雨声 → 男孩奔跑的脚步声
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈寻倒地，嘴角带血，但嘴角微微上扬——因为铜钱传出去了。
+
+DIALOGUE:
+  沈寻: (最后的低语) "下一世……继续。"
+
+---
+
+[SCENE 04: 回到现代]
+DURATION: 2:00–2:50
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 沈无名睁眼，面颊湿润——不知是汗还是泪。
+
+DIALOGUE:
+  沈无名: "第七世。沈寻死在上海弄堂里。"
+  沈无名: "但他把铜钱和信交给了一个孩子。"
+
+SHOT_14:
+  TYPE: INSERT
+  DESC: 沈无名翻开阴阳案录——第七世记载页最后一行："铜钱转交少年沈某之父，信中附顾氏七世罪证摘要。"
+
+DIALOGUE:
+  沈无名: (瞳孔放大) "那个孩子……长大后生了一个儿子。"
+  沈无名: "那个儿子……就是第八世的刑警沈明。"
+  沈无名: "铜钱从未断过。每一世，总有人把它传下去。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_15:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "七世陨落，证据不灭。铜钱传承的不是金属——是九百年的执念。"
+
+SFX: 雨声渐止 + 铜钱旋转声 → 静默
+
+---
+
+[END OF EPISODE 20]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E21 钓鱼计
+HOOK: "周辉，你欠我一个人情——现在，是时候还了。"

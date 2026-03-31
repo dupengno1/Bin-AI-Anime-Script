@@ -1,0 +1,140 @@
+# EPISODE 11 — 假死局
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 11
+TITLE: 假死局
+SUBTITLE: The Faked Death
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 林婉
+THEME: 受害者诱饵·地下室九世死法刻墙
+COLOR_TONE: 暗灰 + 血红刻痕
+BGM: search_pulse → underground_horror → nine_deaths_revelation
+
+---
+
+[SCENE 01: 城市街道 — 日]
+DURATION: 0:00–0:30
+VISUAL: 忙碌街头，搜索行动进行中
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 警车穿梭，巡警在街头分发林婉的寻人启事。
+
+DIALOGUE:
+  马绍峰: (对讲机) "林婉，28岁，失踪72小时。所有人注意，重点排查北区和城西废弃建筑。"
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 沈无名站在搜索指挥车旁，手中拿着林婉的资料，眉头深锁。
+
+DIALOGUE:
+  沈无名: (内心独白) "林婉是第一具尸体的发现者。现在她也失踪了。"
+  沈无名: "这不是巧合——她是诱饵。"
+
+SFX: 对讲机杂音 + 城市噪声
+
+---
+
+[SCENE 02: 废弃地下室入口 — 日]
+DURATION: 0:30–1:10
+VISUAL: 废弃工厂，锈蚀铁门
+
+SHOT_03:
+  TYPE: TRACKING
+  DESC: 沈无名根据九宫阵第三个节点的位置，独自来到城西废弃工厂。
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 他推开锈蚀的铁门，手电筒照入黑暗的地下通道。
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 地上——新鲜的脚印。有人来过。
+
+SFX: 铁门嘎吱声 + 回声
+
+---
+
+[SCENE 03: 废弃地下室内 — 日]
+DURATION: 1:10–2:20
+VISUAL: 阴暗地下室，墙壁上密密麻麻的刻痕
+
+SHOT_06:
+  TYPE: WIDE
+  DESC: 沈无名走入地下室。手电光扫过——墙壁上刻满了图案和文字。
+
+SHOT_07:
+  TYPE: SLOW_PAN
+  DESC: 镜头缓慢扫过墙壁——九幅死亡画面，按顺序排列：
+  1. 刀杀（第一世·沈刀）
+  2. 缢死（第二世·苏仁）
+  3. 斩首（第三世·沈影）
+  4. 爆炸（第四世·沈炮）
+  5. 绞刑（第五世·沈判）
+  6. 流放冻死（第六世·沈谏）
+  7. 枪杀（第七世·沈寻）
+  8. 车祸（第八世·沈明）
+  9. 空白——只刻了两个字："待定"
+
+DIALOGUE:
+  沈无名: (声音发紧) "九种死法……全是我的。"
+
+SFX: 手电筒光束移动 + 低频嗡鸣
+
+SHOT_08:
+  TYPE: CLOSE-UP
+  DESC: 第九格下方，地面上有一个蜷缩的身影——林婉。
+
+SHOT_09:
+  TYPE: MEDIUM
+  DESC: 沈无名冲过去查看。林婉活着，被麻醉后绑在这里。脸色苍白但有呼吸。
+
+DIALOGUE:
+  沈无名: "林婉！醒醒！"
+
+SHOT_10:
+  TYPE: INSERT
+  DESC: 林婉手腕上被绑着一张纸条，字迹工整："第九世的猎物，不该这么早死。"
+
+---
+
+[SCENE 04: 地下室出口]
+DURATION: 2:20–2:50
+
+SHOT_11:
+  TYPE: MEDIUM
+  DESC: 沈无名抱起林婉走向出口。经过墙壁时，他停下脚步。
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈无名凝视第九格的"待定"二字。他的倒影映在旁边一面小镜中——镜中依旧是判官官袍。
+
+DIALOGUE:
+  沈无名: (内心独白) "他把九世的死法全刻在这里。像是展览。"
+  沈无名: "不……像是献祭的记录。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_13:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "九死八满，第九格空悬。活着的人，才是最后的祭品。"
+
+SFX: 石壁刻字声 → 静默
+
+---
+
+[END OF EPISODE 11]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E12 第四世影
+HOOK: "火药库爆炸前的最后一秒，沈炮将铜钱塞进了墙缝里。"

@@ -1,0 +1,155 @@
+# EPISODE 13 — 证据链
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 13
+TITLE: 证据链
+SUBTITLE: The Evidence Chain
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 马绍峰
+THEME: 所有证据指向沈无名·被停职
+COLOR_TONE: 审讯室冷白 + 警徽金
+BGM: pressure_build → evidence_montage → farewell_piano
+
+---
+
+[SCENE 01: 刑警队审讯室 — 日]
+DURATION: 0:00–0:50
+VISUAL: 审讯室，单面镜，冷光灯
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 审讯室内。沈无名坐在审讯椅上，不是审讯者——而是被审讯者。对面坐着马绍峰和一名纪检组人员。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 投影屏幕上罗列证据——
+
+DIALOGUE:
+  纪检组: "沈无名，现列举目前掌握的物证：
+  一，第二具尸体手中你的照片，附有你的指纹；
+  二，两个案发现场的古篆标记与你手腕印记完全一致；
+  三，你的DNA在第一案发现场碎镜上被检出；
+  四，你的行踪轨迹与两次案发时间存在60分钟以上的空白。"
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 沈无名面无表情地听着，像在听别人的故事。
+
+DIALOGUE:
+  沈无名: "证据都是真的。"
+  纪检组: (一愣) "你承认？"
+  沈无名: "我承认证据是真的——但放置这些证据的人不是我。"
+
+SFX: 荧光灯嗡鸣 + 笔记录声
+
+---
+
+[SCENE 02: 审讯室（续）]
+DURATION: 0:50–1:40
+VISUAL: 对峙气氛加剧
+
+SHOT_04:
+  TYPE: TWO-SHOT
+  DESC: 马绍峰挥手让纪检组人员暂时离开。审讯室里只剩两人。
+
+DIALOGUE:
+  马绍峰: (沉声) "无名，我信你不是凶手。但证据在这儿摆着。上面施压，检察院那边……"
+  马绍峰: (停顿) "顾检察长亲自签字要求暂停你的职务。"
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 沈无名嘴角微微勾起——不是笑，是一种了然。
+
+DIALOGUE:
+  沈无名: "顾廷渊签的字？"
+  沈无名: "他等这一刻，等了很久了。"
+
+SHOT_06:
+  TYPE: MEDIUM
+  DESC: 马绍峰从桌下取出一个文件袋，里面是停职通知书。
+
+DIALOGUE:
+  马绍峰: "警徽……暂时交出来。"
+
+---
+
+[SCENE 03: 交出警徽]
+DURATION: 1:40–2:25
+VISUAL: 特写为主，情感聚焦
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 沈无名缓缓从胸前取下警徽。警徽在灯光下反射冷光。
+
+SHOT_08:
+  TYPE: INSERT
+  DESC: 警徽放在审讯桌上。金属与桌面的碰撞声，在安静的房间里格外清晰。
+
+SFX: 金属轻响
+
+SHOT_09:
+  TYPE: TWO-SHOT
+  DESC: 两人对视。马绍峰眼眶微红。
+
+DIALOGUE:
+  马绍峰: "这只是暂时的。等真相——"
+  沈无名: (起身) "马队，真相从来不会自己出现。"
+
+SHOT_10:
+  TYPE: MEDIUM
+  DESC: 沈无名走向门口。到门前时停下，半回头。
+
+DIALOGUE:
+  沈无名: "证据是真的，但凶手不是我——"
+  沈无名: (微顿) "是九百年前的我。"
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 马绍峰一脸茫然。沈无名没有解释，推门离开。
+
+---
+
+[SCENE 04: 刑警队门外]
+DURATION: 2:25–2:50
+
+SHOT_12:
+  TYPE: LONG
+  DESC: 沈无名走出刑警队大楼。阳光刺眼，但他的背影投下长长的暗影。
+
+SHOT_13:
+  TYPE: INSERT
+  DESC: 他从口袋中取出铜钱和阴阳案录。
+
+DIALOGUE:
+  沈无名: (内心独白) "被停职……正好。"
+  沈无名: "没有了身份束缚，我可以去做一件事——找到九世祭坛。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_14:
+  TYPE: SPLIT_SCREEN
+  DESC: 左侧——沈无名的背影消失在街角；右侧——顾廷渊在办公室接过停职签批文件，微微一笑。
+
+SHOT_15:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "停职不是终结——是挣脱牢笼的开始。"
+
+SFX: 警徽落桌回声 → 静默
+
+---
+
+[END OF EPISODE 13]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E14 地下室
+HOOK: "祭坛九格，八格已满。第九格刻着四个字——判官归位。"

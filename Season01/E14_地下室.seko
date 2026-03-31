@@ -1,0 +1,143 @@
+# EPISODE 14 — 地下室
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 14
+TITLE: 地下室
+SUBTITLE: The Underground
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名
+THEME: 发现九世祭坛·第九格空白
+COLOR_TONE: 地下深灰 + 古铜金光
+BGM: underground_descent → altar_reveal → ancient_ritual_drone
+
+---
+
+[SCENE 01: 城郊废弃仓库外 — 黄昏]
+DURATION: 0:00–0:30
+VISUAL: 夕阳余晖，废弃仓库剪影
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 城郊废弃仓库群。沈无名独自一人，根据九宫阵中心点的延伸坐标来到这里。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 沈无名推开仓库大门。里面空旷，灰尘飞扬——但地面上有一个被掩盖的暗门。
+
+SHOT_03:
+  TYPE: INSERT
+  DESC: 暗门把手上——一枚新鲜的指纹。有人经常来。
+
+SFX: 风声 + 金属门轴声
+
+---
+
+[SCENE 02: 地下空间 — 黄昏/暗]
+DURATION: 0:30–1:30
+VISUAL: 地下空间，烛火（自动感应点燃），祭坛居中
+
+SHOT_04:
+  TYPE: TRACKING
+  DESC: 沈无名沿石阶而下。每踏一步，两侧墙壁上的烛台自动点燃——像是某种古老的感应机关。
+
+SHOT_05:
+  TYPE: WIDE (REVEAL)
+  DESC: 地下空间完全展开——一个巨大的圆形祭坛，直径约五米，由九个方格组成九宫布局。
+
+SFX: 烛火点燃声（连续）+ 低频嗡鸣
+
+SHOT_06:
+  TYPE: SLOW_PAN
+  DESC: 祭坛九格，逐格展示——
+  格1: 刻着"大梁·沈刀"，放着一把生锈的古刀
+  格2: 刻着"大梁·苏仁"，放着一条发黑的绳索
+  格3: 刻着"明·沈影"，放着一枚锦衣卫腰牌
+  格4: 刻着"明·沈炮"，放着一截焦黑的火绳
+  格5: 刻着"清·沈判"，放着一方判官印
+  格6: 刻着"清·沈谏"，放着一份泛黄奏折
+  格7: 刻着"民国·沈寻"，放着一顶灰色礼帽
+  格8: 刻着"沈明·1990"，放着一副手铐
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 第九格——空白。只刻着四个字："判官归位"。格中央放着一面完整的古铜镜。
+
+DIALOGUE:
+  沈无名: (低声) "九世祭坛……八格已满。"
+  沈无名: "每一格……都是我一次死亡的纪念。"
+
+---
+
+[SCENE 03: 古铜镜]
+DURATION: 1:30–2:20
+VISUAL: 古铜镜特写，镜中异象
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 沈无名蹲在第九格前，伸手触碰古铜镜。镜面冰冷。
+
+SHOT_09:
+  TYPE: INSERT
+  DESC: 古铜镜表面——映出的不是沈无名的脸，而是一团模糊的暗影，像是一个人形轮廓。
+
+DIALOGUE:
+  沈无名: "镜中有东西……不是我的倒影。"
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 沈无名将铜钱放在古铜镜上——两者接触的瞬间，祭坛八格中的物品同时泛起微光。
+
+SFX: 共鸣音（八种不同音调）
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 八格的微光汇聚向第九格。古铜镜开始发出金色光芒。
+
+DIALOGUE:
+  沈无名: (后退一步) "八世的怨念……都在向这里汇聚。"
+  沈无名: (内心独白) "这个祭坛不是用来纪念的——是用来吸收的。"
+  沈无名: "八世的判官之魂……都被封在这里了。"
+
+---
+
+[SCENE 04: 发现者]
+DURATION: 2:20–2:50
+
+SHOT_12:
+  TYPE: INSERT
+  DESC: 祭坛边缘的石壁上，沈无名发现一行刻字——工整的现代楷书："九世功满，判官永灭。——顾氏第九代"
+
+DIALOGUE:
+  沈无名: "顾氏第九代……顾廷渊。"
+  沈无名: "他不只是在杀我——他在收集我的魂。"
+  沈无名: "九世的封印完成，判官将永远消失。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 古铜镜中的暗影逐渐清晰——隐约可见一张脸。不是沈无名，也不是顾廷渊。是某个更古老的存在。
+
+SHOT_14:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "八魂已收，第九魂悬于镜外。祭坛等的不是祭品——是归来的判官。"
+
+SFX: 古钟九响 → 静默
+
+---
+
+[END OF EPISODE 14]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E15 第五世影
+HOOK: "沈判亲手判了一个无辜者死罪——那个人的脸，和第一位受害者一模一样。"
