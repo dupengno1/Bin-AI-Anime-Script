@@ -203,9 +203,9 @@ TEXT_ON_SCREEN: "找到了。"
 SHOT_23:
   TYPE: BLACK_SCREEN + TEXT
 
-TEXT_ON_SCREEN: "天命未尽。"
-
-TEXT_ON_SCREEN: "第十世——即将开始。"
+TEXT_ON_SCREEN:
+  "天命未尽。"
+  "第十世——即将开始。"
 
 SFX: 冰晶碎裂声（极轻）→ 片尾曲
 
