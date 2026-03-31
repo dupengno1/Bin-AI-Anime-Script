@@ -1,0 +1,170 @@
+# EPISODE 03 — 前世刀
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 03
+TITLE: 前世刀
+SUBTITLE: The Blade of a Past Life
+TIMELINE: 现代 → 第一世·大梁·武德三年
+FOCUS_CHARACTER: 沈无名 / 沈刀
+THEME: 第一世完整回忆
+COLOR_TONE: 现代冷蓝灰 → 大梁暖黄铜色
+BGM: modern_ambient → transition_guqin → ancient_battle_percussion → death_silence
+
+---
+
+[SCENE 01: 沈无名公寓 — 夜]
+DURATION: 0:00–0:25
+VISUAL: 简约公寓，灯光昏暗
+
+SHOT_01:
+  TYPE: MEDIUM
+  DESC: 沈无名坐在桌前，面前摊开阴阳案录。铜钱放在册子旁。
+
+SHOT_02:
+  TYPE: INSERT
+  DESC: 他的手指触碰铜钱——瞬间，铜钱表面泛起金色微光。
+
+SFX: 金属嗡鸣 → 时空转换音效
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 沈无名瞳孔放大，目光涣散——意识被拉入前世。
+
+TRANSITION: 画面如碎镜般层层剥落，露出古代场景。
+
+---
+
+[SCENE 02: 大梁·武德三年·捕头衙门 — 日]
+DURATION: 0:25–1:10
+VISUAL: 古代衙门，暖黄色调，雪花飘落
+
+SHOT_04:
+  TYPE: WIDE
+  DESC: 大梁京城，捕头衙门。年轻的沈刀身着捕头服，腰挎钢刀，意气风发。
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 沈刀在案卷中翻找，眉头紧锁。桌上堆满贪腐案的证据。
+
+DIALOGUE:
+  沈刀: "顾侍郎贪墨白银三十万两，证据确凿。明日早朝，我亲自上呈。"
+
+SHOT_06:
+  TYPE: MEDIUM
+  DESC: 一名捕快急匆匆进入。
+
+DIALOGUE:
+  捕快: "头儿，刑部那边传话——让您别查了。"
+  沈刀: (冷笑) "天子犯法与庶民同罪。他顾家再大，大得过王法？"
+
+SFX: 翻页声 + 远处鼓声
+
+---
+
+[SCENE 03: 大梁·雪夜·暗巷 — 夜]
+DURATION: 1:10–2:15
+VISUAL: 雪夜暗巷，火把光影摇曳
+
+SHOT_07:
+  TYPE: TRACKING
+  DESC: 沈刀怀揣证据卷宗，独自穿行于雪夜小巷。
+
+SHOT_08:
+  TYPE: WIDE
+  DESC: 巷口，数十名黑衣人持刀拦路。火把将雪地映红。
+
+SHOT_09:
+  TYPE: MEDIUM
+  DESC: 黑衣人让开一条路，一人缓步走出——刑部侍郎顾某。锦袍玉带，面带微笑。右手无名指——古铜扳指。
+
+DIALOGUE:
+  顾某: "沈捕头，雪夜独行，不怕冷么？"
+  沈刀: (握刀) "顾侍郎，你的罪证我已备妥。你拦不住的。"
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 顾某微笑不变，转动扳指。
+
+DIALOGUE:
+  顾某: "拦不住？沈捕头……你太高看自己了。"
+  顾某: "这世间的真相，从来不是靠一把刀就能守住的。"
+
+SHOT_11:
+  TYPE: WIDE → CLOSE-UP
+  DESC: 黑衣人围拢。沈刀拔刀，奋力厮杀。血溅白雪。
+
+SFX: 刀剑交击 + 惨叫 + 雪地践踏声
+
+SHOT_12:
+  TYPE: MEDIUM
+  DESC: 沈刀背靠墙壁，身中数刀，仍握着卷宗不放。
+
+DIALOGUE:
+  沈刀: (吐血) "证据……会有人接手……"
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 顾某俯身，从沈刀手中抽出卷宗，丢入火把。纸页燃烧。
+
+DIALOGUE:
+  顾某: (低声) "不会有的。"
+  顾某: "你死了，证据烧了，明日早朝……什么都没发生过。"
+
+SHOT_14:
+  TYPE: INSERT
+  DESC: 沈刀手中的铜钱滑落雪地——正面朝上——"顾"字。
+
+SFX: 铜钱落地声（清脆）→ 心跳停止
+
+---
+
+[SCENE 04: 回到现代 — 沈无名公寓]
+DURATION: 2:15–2:50
+VISUAL: 现代公寓，沈无名猛然回神
+
+SHOT_15:
+  TYPE: CLOSE-UP
+  DESC: 沈无名睁眼，大汗淋漓，手中紧握铜钱。
+
+DIALOGUE:
+  沈无名: (喘息) "第一世……就是这样死的。"
+
+SHOT_16:
+  TYPE: MEDIUM
+  DESC: 他低头看铜钱，翻到背面——磨损的痕迹中，隐约可见古代血渍。
+
+DIALOGUE:
+  沈无名: (内心独白) "九百年了。这枚铜钱从第一世传到现在。"
+  沈无名: "顾廷渊……你祖上的笑容，和你一模一样。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+VISUAL: 闪回叠加
+
+SHOT_17:
+  TYPE: FLASH_CUT
+  DESC: 快速闪切——大梁顾某的笑容 → 现代顾廷渊的笑容。完全重合。
+
+SHOT_18:
+  TYPE: BLACK_SCREEN + TEXT
+  DESC: 黑屏。
+
+TEXT_ON_SCREEN: "前世的刀，斩不断今生的因果。"
+
+SFX: 古琴一声断弦 → 静默
+
+---
+
+[END OF EPISODE 03]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E04 局中局
+HOOK: "第二具尸体出现了——死者手中，握着沈无名的照片。"

@@ -1,0 +1,144 @@
+# EPISODE 12 — 第四世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 12
+TITLE: 第四世影
+SUBTITLE: Shadow of the Fourth Life
+TIMELINE: 现代 → 第四世·明代
+FOCUS_CHARACTER: 沈无名 / 沈炮
+THEME: 神机营沈炮·证据与人同毁
+COLOR_TONE: 现代冷蓝 → 明代火焰橙红
+BGM: quiet_reflection → transition_war_drum → gunpowder_crescendo → explosion_silence
+
+---
+
+[SCENE 01: 沈无名公寓 — 夜]
+DURATION: 0:00–0:20
+VISUAL: 桌上摊开的铜钱和阴阳案录
+
+SHOT_01:
+  TYPE: INSERT
+  DESC: 铜钱特写——表面有微小的火灼痕迹，这是其他磨损无法解释的。
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 沈无名指尖触碰火灼痕——铜钱发出暗红色光芒。
+
+SFX: 火焰呼啸声 → 时空转换
+
+TRANSITION: 画面被火焰吞噬，重组为明代军营。
+
+---
+
+[SCENE 02: 明代·神机营军械库 — 日]
+DURATION: 0:20–1:00
+VISUAL: 军械库内，火铳、火药桶排列
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 明代神机营军械库。沈炮身着军服，正在检查火器。他身材粗壮，双手有火药灼伤的旧疤。
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 沈炮将一份秘密调查报告藏入火铳的空膛中。
+
+DIALOGUE:
+  沈炮: (低声) "顾将军之子私卖火器给北虏，账目都在这里。"
+  沈炮: "明天兵部点验，我当面揭发。"
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 沈炮从怀中取出铜钱（同一枚），放在嘴唇边亲了一下。
+
+DIALOGUE:
+  沈炮: "老伙计，陪我再走一遭。"
+
+SFX: 远处军号声
+
+---
+
+[SCENE 03: 明代·神机营军械库 — 夜]
+DURATION: 1:00–2:10
+VISUAL: 夜色中，火光渐起
+
+SHOT_06:
+  TYPE: WIDE
+  DESC: 深夜，沈炮被异常声响惊醒。冲出营帐——军械库方向火光冲天。
+
+DIALOGUE:
+  沈炮: "不！证据在里面——"
+
+SHOT_07:
+  TYPE: TRACKING
+  DESC: 沈炮拼命奔向军械库。周围士兵在混乱中四散。
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 军械库入口处，几名黑衣人持刀拦路。为首者身后——顾将军之子的亲随。
+
+DIALOGUE:
+  亲随: "沈火器官，顾少爷说了——你和你的证据，今夜一起变成灰。"
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 沈炮环顾四周——火势蔓延，火药桶开始发出危险的嘶嘶声。他知道只有几秒钟。
+
+SHOT_10:
+  TYPE: INSERT
+  DESC: 沈炮从怀中掏出铜钱，看了一眼——然后用力将铜钱塞入身旁墙壁的一条砖缝中。
+
+DIALOGUE:
+  沈炮: (对铜钱) "下一世……会有人来取你的。"
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 火药桶引爆。巨大的爆炸吞噬了一切——沈炮、黑衣人、军械库。
+
+SFX: 爆炸声（震耳）→ 白光 → 绝对寂静
+
+---
+
+[SCENE 04: 回到现代]
+DURATION: 2:10–2:50
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈无名睁眼，手中铜钱滚烫。他松手，铜钱在桌面上旋转。
+
+DIALOGUE:
+  沈无名: "第四世……连证据带人一起炸了。"
+  沈无名: (拿起铜钱看火灼痕) "这些灼痕……就是那次爆炸留下的。"
+
+SHOT_13:
+  TYPE: MEDIUM
+  DESC: 沈无名将铜钱贴在额头上，闭眼。
+
+DIALOGUE:
+  沈无名: (内心独白) "四世了。每一世的证据都被毁。"
+  沈无名: "但铜钱活了下来。它才是真正的证据链——跨越九百年的证物。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_14:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "火焚万物，唯铜不灭。九百年的证据，就藏在掌心。"
+
+SFX: 余烬噼啪声 → 静默
+
+---
+
+[END OF EPISODE 12]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E13 证据链
+HOOK: "沈分析师，所有证据都指向你。我不得不……暂停你的职务。"

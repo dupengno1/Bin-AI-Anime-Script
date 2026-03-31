@@ -1,0 +1,162 @@
+# EPISODE 17 — 同行者
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 17
+TITLE: 同行者
+SUBTITLE: The Companion
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 苏云
+THEME: 苏云被绑架·古诗暗示前世记忆
+COLOR_TONE: 紧张红蓝 + 古诗暖黄
+BGM: abduction_urgency → poem_decryption → rescue_crescendo
+
+---
+
+[SCENE 01: 苏云公寓 — 夜]
+DURATION: 0:00–0:35
+VISUAL: 门半开，灯光倾泻，明显发生过搏斗
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 苏云公寓门口。沈无名接到苏云未接来电后赶到——门半开，屋内一片狼藉。
+
+SHOT_02:
+  TYPE: TRACKING
+  DESC: 沈无名快速扫视现场：茶杯碎在地上，书架被推倒，窗帘撕裂。
+
+DIALOGUE:
+  沈无名: "苏云！"
+
+SHOT_03:
+  TYPE: INSERT
+  DESC: 客厅茶几上，一张白纸被刻意摆放——上面用毛笔写着一首诗。
+
+SFX: 风声（窗户破损）+ 心跳加速
+
+---
+
+[SCENE 02: 古诗解密]
+DURATION: 0:35–1:30
+VISUAL: 诗文特写 → 解码过程
+
+SHOT_04:
+  TYPE: INSERT
+  DESC: 白纸上的诗——
+
+TEXT_ON_SCREEN:
+  "阴阳二道分生死，
+   判官落笔不由己。
+   九世追凶刀未断，
+   仵作临终血为墨。"
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 沈无名拿起白纸，手指微颤。
+
+DIALOGUE:
+  沈无名: "这首诗……不是绑匪写的。"
+  沈无名: "是苏云写的——在被带走之前。"
+
+SHOT_06:
+  TYPE: MEDIUM
+  DESC: 沈无名将诗与阴阳案录并排放置。
+
+DIALOGUE:
+  沈无名: (内心独白) "阴阳案录中记载——第二世仵作苏仁临死前，用血在墙上写了一首绝笔诗。"
+  沈无名: "这首诗和苏仁的绝笔——一字不差。"
+
+SHOT_07:
+  TYPE: INSERT
+  DESC: 闪回——第二世，苏仁临死前用血写字的画面。诗句重叠。
+
+DIALOGUE:
+  沈无名: "苏云不可能知道这首诗……除非——"
+  沈无名: "她的前世记忆正在觉醒。"
+
+SFX: 古筝颤音 + 回忆音效
+
+---
+
+[SCENE 03: 追踪与解救]
+DURATION: 1:30–2:25
+VISUAL: 夜色中的追踪行动
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 沈无名仔细看诗的背面——苏云用指甲在纸上刻了一串数字。
+
+SHOT_09:
+  TYPE: INSERT
+  DESC: 数字特写——是一个GPS坐标。
+
+DIALOGUE:
+  沈无名: "她留了坐标。在被带走的过程中——她在挣扎时记下了车辆行驶方向。"
+  沈无名: "聪明……和苏仁一样聪明。"
+
+SHOT_10:
+  TYPE: TRACKING
+  DESC: 沈无名驾车疾驰。导航指向城东一处废弃的制衣厂。
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 制衣厂内。苏云被绑在椅子上，嘴被胶带封住。面前放着一面碎镜。
+
+SHOT_12:
+  TYPE: MEDIUM
+  DESC: 沈无名破门而入。绑匪已经撤离——他们只是把苏云放在这里，像是在展示。
+
+SHOT_13:
+  TYPE: TWO-SHOT
+  DESC: 沈无名解开苏云的绳索。苏云大口呼吸。
+
+DIALOGUE:
+  苏云: (颤声) "他们……没有伤害我。只是让我坐在镜子前面。"
+  苏云: "然后……我在镜子里看到了另一个自己。穿着古代衣服的自己。"
+  苏云: (眼含泪水) "沈无名……那首诗……我不知道怎么会写的。手自己动了。"
+
+---
+
+[SCENE 04: 同行者]
+DURATION: 2:25–2:50
+
+SHOT_14:
+  TYPE: CLOSE-UP
+  DESC: 沈无名轻轻握住苏云的手。
+
+DIALOGUE:
+  沈无名: (轻声) "因为你不只是苏云。"
+  沈无名: "在另一个时代，你叫苏仁。你是和我一起追查真相的人。"
+  沈无名: "你不是被卷入这件事——你本就是这件事的一部分。"
+
+SHOT_15:
+  TYPE: TWO-SHOT
+  DESC: 苏云看着沈无名的眼睛，泪水滑落。她点了点头。
+
+DIALOGUE:
+  苏云: "那……从现在开始，我和你一起。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_16:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "九世追凶，不是一个人的路。仵作与判官，生死同行。"
+
+SFX: 双人脚步声 → 静默
+
+---
+
+[END OF EPISODE 17]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E18 第六世影
+HOOK: "御史大夫沈谏查到了皇子的秘密——然后被流放到了永远回不来的地方。"

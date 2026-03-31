@@ -1,0 +1,168 @@
+# EPISODE 15 — 第五世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 15
+TITLE: 第五世影
+SUBTITLE: Shadow of the Fifth Life
+TIMELINE: 现代 → 第五世·清代
+FOCUS_CHARACTER: 沈无名 / 沈判
+THEME: 通判沈判·错判无辜者死罪
+COLOR_TONE: 现代冷蓝 → 清代暗灰 + 鲜血红
+BGM: guilt_prelude → transition_erhu → courtroom_tension → wrongful_death_lament
+
+---
+
+[SCENE 01: 九世祭坛 — 夜]
+DURATION: 0:00–0:20
+VISUAL: 祭坛第五格发出脉动的光
+
+SHOT_01:
+  TYPE: INSERT
+  DESC: 祭坛第五格中的判官印泛起光芒。沈无名触碰——
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的眼神涣散——被拉入第五世。
+
+SFX: 惊堂木声 → 时空转换
+
+TRANSITION: 画面化为清代公堂。
+
+---
+
+[SCENE 02: 清代·通判公堂 — 日]
+DURATION: 0:20–1:00
+VISUAL: 清代公堂，庄严肃穆
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 清代公堂，通判沈判端坐堂上。面前跪着一名衣衫褴褛的青年。两侧衙役持杖而立。
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 沈判面容刚正，但眼中有一丝疲惫。他正在审理一桩杀人案。
+
+DIALOGUE:
+  沈判: "李三，你被指控于七月十五夜杀害钱庄掌柜赵某。证据确凿，你可有话说？"
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 青年李三，面容恐惧，眼含冤屈。
+
+DIALOGUE:
+  李三: "大人！小人冤枉！那夜小人在家照料病母，从未离开过——"
+
+SHOT_06:
+  TYPE: INSERT
+  DESC: 沈判翻看案卷——所有证人证词、物证都指向李三。完美的证据链。
+
+DIALOGUE:
+  沈判: (内心独白) "证据太完美了……完美得不像真的。"
+
+---
+
+[SCENE 03: 清代·通判府邸 — 夜]
+DURATION: 1:00–1:40
+VISUAL: 书房，烛火昏暗
+
+SHOT_07:
+  TYPE: MEDIUM
+  DESC: 沈判在书房中反复研究案卷，总觉得哪里不对。门外传来脚步声。
+
+SHOT_08:
+  TYPE: TWO-SHOT
+  DESC: 顾知府推门而入，笑容亲和。
+
+DIALOGUE:
+  顾知府: "沈通判，还在熬夜？这案子证据清楚，何必纠结？"
+  沈判: "顾大人，我总觉得证人证词太过一致——"
+  顾知府: (拍沈判肩膀) "年轻人，想太多了。上面催得紧，明日就结案吧。"
+  顾知府: (微笑) "别让这点小案子，毁了你的前程。"
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 顾知府离开时——转动手上的扳指。熟悉的扳指。
+
+---
+
+[SCENE 04: 清代·刑场 — 日]
+DURATION: 1:40–2:20
+VISUAL: 刑场，围观百姓，秋风萧瑟
+
+SHOT_10:
+  TYPE: WIDE
+  DESC: 刑场。李三被押上刑台。沈判监斩。
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 沈判手持朱笔，在死刑判决上画下最后一笔。手在颤抖。
+
+SHOT_12:
+  TYPE: MEDIUM
+  DESC: 行刑。沈判闭目。
+
+SFX: 刀落声 → 人群惊呼 → 风声
+
+SHOT_13:
+  TYPE: INSERT
+  DESC: 三日后——沈判在案卷夹层中发现被藏匿的真正证据。凶手不是李三，而是顾知府的侄子。
+
+DIALOGUE:
+  沈判: (双手颤抖) "不……我判错了……"
+  沈判: "李三是无辜的……是我亲手杀了他……"
+
+SHOT_14:
+  TYPE: CLOSE-UP
+  DESC: 沈判跪在案卷前，泪流满面。
+
+DIALOGUE:
+  沈判: "这不是我的失误——是顾家的圈套。"
+  沈判: "他们让我成了杀害无辜者的刽子手。"
+
+SFX: 风声 + 悲鸣古筝
+
+---
+
+[SCENE 05: 回到现代]
+DURATION: 2:20–2:50
+
+SHOT_15:
+  TYPE: CLOSE-UP
+  DESC: 沈无名从回忆中挣脱，眼中含泪——这是九世中他第一次流泪。
+
+DIALOGUE:
+  沈无名: (声音嘶哑) "第五世……是最痛的一世。"
+  沈无名: "不是因为我死了——是因为我杀了一个无辜的人。"
+
+SHOT_16:
+  TYPE: INSERT
+  DESC: 闪回——李三的脸 → 现代第一位受害者的脸。完全一致。
+
+DIALOGUE:
+  沈无名: (瞳孔震动) "第一位受害者……是李三的转世？"
+
+---
+
+[SCENE 06: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_17:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "错判一人，罪业九世。判官最重的刑——是判给自己的。"
+
+SFX: 惊堂木声 → 静默
+
+---
+
+[END OF EPISODE 15]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E16 顾的裂缝
+HOOK: "判官大人，这一世……您又输了。"

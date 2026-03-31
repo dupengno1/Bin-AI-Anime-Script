@@ -1,0 +1,153 @@
+# EPISODE 21 — 钓鱼计
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 21
+TITLE: 钓鱼计
+SUBTITLE: The Fishing Trap
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 周辉
+THEME: 反套计划·取得顾廷渊手机
+COLOR_TONE: 夜色深蓝 + 手机屏光
+BGM: covert_operation → infiltration_pulse → data_extraction_electronic
+
+---
+
+[SCENE 01: 城郊停车场 — 深夜]
+DURATION: 0:00–0:40
+VISUAL: 空旷停车场，两辆车相对停放
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 深夜城郊停车场。沈无名靠在车边，等待。远处一辆车缓缓驶来。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 周辉下车，神色紧张，左顾右盼。
+
+DIALOGUE:
+  周辉: "沈分析师……你确定要这么做？如果被发现——"
+  沈无名: "周辉，你替顾廷渊做了多少事？"
+  周辉: (低头) "……够多了。"
+  沈无名: "那现在，你有一次机会。不是为我——是为你自己。"
+
+SHOT_03:
+  TYPE: CLOSE-UP
+  DESC: 周辉抬头，眼中有恐惧，但也有一丝决然。
+
+DIALOGUE:
+  周辉: "你要我做什么？"
+  沈无名: "明天中午，顾廷渊会在刑警队开会。会议期间——我需要他的手机。五分钟就够。"
+
+SFX: 夜风声 + 远处车流
+
+---
+
+[SCENE 02: 刑警队会议室 — 次日中午]
+DURATION: 0:40–1:30
+VISUAL: 会议进行中，紧张的行动
+
+SHOT_04:
+  TYPE: WIDE
+  DESC: 会议室内，顾廷渊正在主持案件研讨会。他的手机和扳指一起放在桌面上。
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 周辉端着茶水走入。他将茶杯放在顾廷渊右手边——
+
+SHOT_06:
+  TYPE: INSERT
+  DESC: "不小心"碰倒茶杯，茶水洒向顾廷渊的笔记本和手机。
+
+DIALOGUE:
+  周辉: "啊！对不起对不起，顾检察长！"
+  顾廷渊: (微微皱眉) "没事。擦一下就好。"
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 周辉慌忙用纸巾擦拭。在混乱中——他将顾廷渊的手机换成了一部外观完全一致的备用机。
+
+SHOT_08:
+  TYPE: INSERT
+  DESC: 真手机被周辉藏入袖口。
+
+SFX: 茶水泼洒声 + 擦拭声
+
+---
+
+[SCENE 03: 刑警队楼道 — 紧接]
+DURATION: 1:30–2:15
+VISUAL: 楼道中的秘密传递
+
+SHOT_09:
+  TYPE: TRACKING
+  DESC: 周辉快步走出会议室，拐入楼道。
+
+SHOT_10:
+  TYPE: TWO-SHOT
+  DESC: 沈无名在楼道尽头等候。周辉将手机递过去。
+
+DIALOGUE:
+  周辉: "五分钟。他发现之前——"
+  沈无名: "够了。"
+
+SHOT_11:
+  TYPE: INSERT
+  DESC: 沈无名连接数据线，快速提取手机中的加密通讯记录。进度条飞速推进。
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 数据提取完成。沈无名浏览——一条加密语音消息引起他的注意。
+
+SHOT_13:
+  TYPE: INSERT
+  DESC: 语音播放——顾廷渊的声音，极其冷静：
+
+DIALOGUE:
+  顾廷渊: (语音) "第九格，准备好了。时间定在月圆之夜。九魂归一，判官永灭。"
+
+SFX: 手机扬声器的电子质感声
+
+SHOT_14:
+  TYPE: CLOSE-UP
+  DESC: 沈无名面色凝重。他将手机交还周辉。
+
+DIALOGUE:
+  沈无名: "放回去。"
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:15–3:00
+
+SHOT_15:
+  TYPE: MEDIUM
+  DESC: 周辉回到会议室，趁顾廷渊起身发言时将手机换回。
+
+SHOT_16:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊拿起手机看了一眼——微微一顿——然后微笑如常。
+
+DIALOGUE:
+  顾廷渊: (内心独白) "手机被动过了。"
+  顾廷渊: (微笑) "有意思。"
+
+SHOT_17:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "钓鱼者以为钓到了鱼——但鱼，可能正看着鱼钩微笑。"
+
+SFX: 数据传输声 → 静默
+
+---
+
+[END OF EPISODE 21]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E22 顾氏家族
+HOOK: "族谱末页写着——若九代不成，血脉断绝，天道归正。"

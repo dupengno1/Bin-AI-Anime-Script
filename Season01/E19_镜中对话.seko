@@ -1,0 +1,149 @@
+# EPISODE 19 — 镜中对话
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 19
+TITLE: 镜中对话
+SUBTITLE: Dialogue in the Mirror
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 顾氏初代（镜中）
+THEME: 古镜中顾廷渊影像开口说话
+COLOR_TONE: 祭坛暗金 + 镜中幽蓝
+BGM: altar_ambient → mirror_activation → ancient_voice_reveal → origin_theme
+
+---
+
+[SCENE 01: 九世祭坛 — 夜]
+DURATION: 0:00–0:30
+VISUAL: 地下祭坛，烛火自动点燃
+
+SHOT_01:
+  TYPE: TRACKING
+  DESC: 沈无名再次来到九世祭坛。这一次，他将铜钱、阴阳案录和从苏云处获得的古诗一并带来。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 他将三件物品分别放在祭坛第一格、第二格和第六格中。
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 祭坛八格同时亮起微光，像是回应。
+
+SFX: 嗡鸣共振 + 烛火跳跃声
+
+---
+
+[SCENE 02: 古铜镜激活]
+DURATION: 0:30–1:20
+VISUAL: 古铜镜发光，镜面如水面般波动
+
+SHOT_04:
+  TYPE: CLOSE-UP
+  DESC: 第九格中的古铜镜开始自行发光。镜面不再是固体——而是如水面般微微波动。
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 沈无名蹲在镜前，看到镜中出现一个身影——穿着大梁朝服的男人。
+
+DIALOGUE:
+  沈无名: "这个人不是我的倒影……"
+
+SHOT_06:
+  TYPE: CLOSE-UP
+  DESC: 镜中人物逐渐清晰——大梁刑部侍郎的朝服，古铜扳指，与顾廷渊七分相似的面容。但更苍老、更沧桑。
+
+DIALOGUE:
+  沈无名: "顾氏……初代？"
+
+---
+
+[SCENE 03: 镜中对话]
+DURATION: 1:20–2:30
+VISUAL: 镜内外对话，光影交错
+
+SHOT_07:
+  TYPE: CLOSE-UP (镜中)
+  DESC: 镜中的顾氏初代开口说话。声音苍老而深远，像是从极远处传来。
+
+DIALOGUE:
+  顾氏初代: "判官……你终于站在了这面镜前。"
+
+SHOT_08:
+  TYPE: CLOSE-UP
+  DESC: 沈无名瞳孔微缩但保持镇定。
+
+DIALOGUE:
+  沈无名: "你是谁？"
+  顾氏初代: "我是顾氏第一代。九百年前亲手杀你的人。"
+  顾氏初代: "也是……九百年来一直在等你的人。"
+
+SHOT_09:
+  TYPE: TWO-SHOT (镜内外)
+  DESC: 镜内外的两人对视。时间仿佛凝固。
+
+DIALOGUE:
+  沈无名: "等我？你们世世代代追杀我——这叫等？"
+  顾氏初代: (苦笑) "你以为我们是在杀你？"
+  顾氏初代: "不。我们是在喂养封印。"
+  顾氏初代: "每杀你一次，你的判官之魂就被削弱一分。九次之后——"
+  沈无名: "判官永灭。"
+  顾氏初代: "对。九世轮回——不是诅咒，是封印仪式。而你，是仪式的核心。"
+
+SFX: 古老梵唱（极低）+ 共鸣加强
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 沈无名握紧拳头。
+
+DIALOGUE:
+  沈无名: "为什么要封印判官？"
+  顾氏初代: (声音渐远) "因为……判官不该存在于人间。"
+  顾氏初代: "你原本是天道执法者。九百年前你犯了一个错——"
+  顾氏初代: "你判错了一个案。天道罚你入轮回。"
+  顾氏初代: "而我……被天道选中，执行封印。"
+
+---
+
+[SCENE 04: 镜暗]
+DURATION: 2:30–2:50
+
+SHOT_11:
+  TYPE: WIDE
+  DESC: 镜面光芒骤然减弱。顾氏初代的身影开始模糊。
+
+DIALOGUE:
+  顾氏初代: (最后一句) "每一世……我都在等你来到镜前。"
+  顾氏初代: "因为只有你自己选择走入镜中——封印才能完成。"
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 镜面恢复平静。沈无名呆坐在祭坛前。
+
+DIALOGUE:
+  沈无名: (低声) "所以……九世追凶，不是我在追他们。"
+  沈无名: "是他们在等我——主动走入牢笼。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_13:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "镜中开口，千年真相浮出。追凶者与猎人——都是棋盘上的棋子。"
+
+SFX: 铜镜嗡鸣余音 → 静默
+
+---
+
+[END OF EPISODE 19]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E20 第七世影
+HOOK: "民国侦探沈寻临死前把铜钱交给了一个孩子——那孩子是第八世沈明的父亲。"

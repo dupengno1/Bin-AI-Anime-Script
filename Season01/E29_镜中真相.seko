@@ -1,0 +1,144 @@
+# EPISODE 29 — 镜中真相
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 29
+TITLE: 镜中真相
+SUBTITLE: The Truth in the Mirror
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名
+THEME: 镜中判官官袍·沈无名身份揭晓
+COLOR_TONE: 祭坛金光 + 官袍黑白 + 神圣银
+BGM: destiny_prelude → mirror_transcendence → judge_awakening → divine_chorus
+
+---
+
+[SCENE 01: 九世祭坛 — 夜]
+DURATION: 0:00–0:30
+VISUAL: 祭坛发出最强烈的光芒
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 法庭审判结束后的深夜。沈无名独自回到九世祭坛。推开仓库门的瞬间——地下传来剧烈的光芒脉动。
+
+SHOT_02:
+  TYPE: TRACKING
+  DESC: 沈无名沿石阶而下。烛台不再点燃——取而代之的是八格自身发出的耀眼光柱。
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 第九格的古铜镜正在发出银白色的光。镜面如水面般剧烈波动。
+
+DIALOGUE:
+  沈无名: "仪式……在我不知道的时候已经到了最后一步。"
+
+SFX: 嗡鸣共振（最强级别）
+
+---
+
+[SCENE 02: 古铜镜的召唤]
+DURATION: 0:30–1:30
+VISUAL: 古铜镜中的判官官袍
+
+SHOT_04:
+  TYPE: CLOSE-UP
+  DESC: 古铜镜中——一件完整的阴阳判官官袍悬浮在镜面内侧。黑白相间，金线绣纹，衣领处的"阴阳"二字闪烁。
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 沈无名走近镜前。镜中的官袍像是在等待——等待有人穿上它。
+
+SHOT_06:
+  TYPE: INSERT
+  DESC: 八格中的八世虚影再次出现——但这一次，它们不是在拉扯，而是在跪拜。面朝沈无名。
+
+DIALOGUE:
+  八世之声: (齐声，如回声) "判官大人……归位。"
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 沈无名抬起手腕——判官印记完全激活，散发出与官袍相同的光芒。
+
+DIALOGUE:
+  沈无名: (内心独白) "原来如此……第九格要满，不是顾廷渊填的。"
+  沈无名: "是我——当我接受自己是判官的那一刻——第九魂就自动归位了。"
+  沈无名: "在意识空间里，在我说出'我拒绝做祭品'的那一刻——我承认了自己的身份。"
+  沈无名: "顾廷渊在法庭上说的没错……第九格，已经满了。"
+
+SFX: 古钟声 + 八重回声
+
+---
+
+[SCENE 03: 判官归位]
+DURATION: 1:30–2:20
+VISUAL: 官袍披身·身份揭晓
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 古铜镜表面完全液化。官袍从镜中飘出——缓缓披在沈无名身上。
+
+SHOT_09:
+  TYPE: CLOSE-UP → WIDE
+  DESC: 官袍披身的瞬间——沈无名的全部记忆解锁。不只是九世，而是九世之前的一切。
+
+SHOT_10:
+  TYPE: FLASH_MONTAGE
+  DESC: 极速闪回——
+  天界判官审案 → 一次错判 → 天道惩罚 → 坠入轮回 →
+  九世追凶的所有画面在一秒内闪过 → 回到现在
+
+SHOT_11:
+  TYPE: MEDIUM
+  DESC: 沈无名站在祭坛中央，身着判官官袍。他的眼中——金色光芒稳定而清澈。
+
+DIALOGUE:
+  沈无名: "我想起来了。全部。"
+  沈无名: "我是阴阳判官。天道的执法者。"
+  沈无名: "九百年前，我判错了一个案子。天道罚我入轮回。"
+  沈无名: "九世的追凶——是我的赎罪之路。"
+  沈无名: "而现在……赎罪完成了。"
+
+---
+
+[SCENE 04: 代价]
+DURATION: 2:20–2:50
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈无名低头看自己的双手——半透明。他的存在正在消散。
+
+DIALOGUE:
+  沈无名: "判官归位……代价是——失去现世的一切。"
+  沈无名: "身份、记忆、身体……和苏云。"
+
+SHOT_13:
+  TYPE: INSERT
+  DESC: 镜面中映出苏云的面容——在刑警队焦急等待的画面。
+
+DIALOGUE:
+  沈无名: (轻声) "苏云……对不起。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_14:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "判官归位，九世因果了结。但归位之后——是永恒的离别。"
+
+SFX: 官袍飘动声 → 一声长叹 → 静默
+
+---
+
+[END OF EPISODE 29]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E30 天命未尽 [大结局]
+HOOK: "苏云……替我记住——不是每个判官，都甘心做神。"

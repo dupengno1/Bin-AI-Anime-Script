@@ -1,0 +1,140 @@
+# EPISODE 16 — 顾的裂缝
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 16
+TITLE: 顾的裂缝
+SUBTITLE: The Crack in Gu
+TIMELINE: 现代
+FOCUS_CHARACTER: 顾廷渊, 沈无名
+THEME: 顾廷渊说出九百年前的原话
+COLOR_TONE: 走廊冷白 + 对峙暖光
+BGM: surface_calm → revelation_sting → confrontation_cello
+
+---
+
+[SCENE 01: 市检察院走廊 — 日]
+DURATION: 0:00–0:40
+VISUAL: 大理石走廊，午后阳光斜射
+
+SHOT_01:
+  TYPE: LONG
+  DESC: 沈无名走在检察院走廊中。虽已被停职，但他以"配合调查"的名义来到这里。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 走廊尽头，顾廷渊从办公室走出，与沈无名迎面相遇。
+
+DIALOGUE:
+  顾廷渊: (微笑) "沈分析师，停职的人不该出现在这里。"
+  沈无名: "纪检组请我来补充笔录。顺便……也想见见您。"
+
+SHOT_03:
+  TYPE: TWO-SHOT
+  DESC: 两人面对面站在走廊中央。阳光将他们的影子拉得很长，交叉在一起。
+
+---
+
+[SCENE 02: 走廊对峙]
+DURATION: 0:40–1:50
+VISUAL: 光影交错，两人距离逐渐缩短
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 沈无名不紧不慢地开口。
+
+DIALOGUE:
+  沈无名: "顾检察长，我有一个问题。"
+  顾廷渊: "请说。"
+  沈无名: "九宫八卦困魂阵——您听说过吗？"
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊的表情没有任何变化。但他的右手——无意识地转动了一下扳指。
+
+DIALOGUE:
+  顾廷渊: "阵法？听起来像是小说情节。"
+  沈无名: "是啊。小说情节。就像九百年前，有个刑部侍郎在雪夜杀了一个捕头一样。"
+
+SHOT_06:
+  TYPE: CLOSE-UP
+  DESC: 两人的眼神交锋。空气仿佛凝固。
+
+DIALOGUE:
+  顾廷渊: (微笑不变) "……古代的事，谁知道呢。"
+
+SHOT_07:
+  TYPE: MEDIUM
+  DESC: 沈无名转身准备离开。顾廷渊在他身后开口——
+
+SHOT_08:
+  TYPE: CLOSE-UP (顾廷渊)
+  DESC: 顾廷渊嘴角的笑容消失了一瞬。他低声说出一句话——
+
+DIALOGUE:
+  顾廷渊: "判官大人，这一世……您又输了。"
+
+SFX: 时间静止般的沉默（2秒）
+
+---
+
+[SCENE 03: 裂缝显现]
+DURATION: 1:50–2:30
+VISUAL: 沈无名的震惊 → 走廊回声
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 沈无名停下脚步。背对着顾廷渊，但肩膀微微僵硬。
+
+DIALOGUE:
+  沈无名: (不转身，声音平静但内心翻涌) "您刚才说了什么？"
+
+SHOT_10:
+  TYPE: CLOSE-UP (顾廷渊)
+  DESC: 顾廷渊仿佛也意识到自己失言。微笑迅速回到脸上。
+
+DIALOGUE:
+  顾廷渊: "我说……案子还没结，胜负未定。"
+  顾廷渊: (转身离开) "沈分析师，注意身体。"
+
+SHOT_11:
+  TYPE: MEDIUM
+  DESC: 顾廷渊的背影消失在走廊尽头。沈无名缓缓转过身，目光如刀。
+
+DIALOGUE:
+  沈无名: (内心独白) "'判官大人，这一世您又输了'——这句话，第一世的刑部侍郎在杀我之前说过。"
+  沈无名: "一模一样。一个字都不差。"
+  沈无名: "顾廷渊……你终于露出破绽了。"
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+
+SHOT_12:
+  TYPE: SPLIT_SCREEN
+  DESC: 左侧——沈无名站在走廊中，目光坚定；右侧——顾廷渊在办公室内，第一次面露不安，低头看着扳指。
+
+DIALOGUE:
+  顾廷渊: (自语) "失言了……九百年来第一次。"
+  顾廷渊: (握紧扳指) "他让我失态了。"
+
+SHOT_13:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "九百年的面具，裂了一条缝。从缝隙中泄出的——是千年的真相。"
+
+SFX: 瓷器裂纹声 → 静默
+
+---
+
+[END OF EPISODE 16]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E17 同行者
+HOOK: "苏云留下的线索是一首大梁古诗——那是仵作苏仁临终前的绝笔。"

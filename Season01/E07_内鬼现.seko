@@ -1,0 +1,153 @@
+# EPISODE 07 — 内鬼现
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 07
+TITLE: 内鬼现
+SUBTITLE: The Mole Revealed
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 周辉
+THEME: 队内泄密·信息陷阱
+COLOR_TONE: 冷灰 + 手机屏光
+BGM: suspicion_pizzicato → trap_set → confrontation_low_brass
+
+---
+
+[SCENE 01: 刑警队办公室 — 日]
+DURATION: 0:00–0:40
+VISUAL: 正常工作日，但沈无名暗中观察
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 刑警队办公室，众人各自忙碌。沈无名坐在工位上，看似翻看资料，实则目光扫过每个人。
+
+DIALOGUE:
+  沈无名: (内心独白) "案件信息两次泄露。凶手总能提前知道我们的行动。"
+  沈无名: "队内有人在传递消息。"
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 沈无名起身走向马绍峰办公室，轻敲门。
+
+---
+
+[SCENE 02: 马绍峰办公室 — 日]
+DURATION: 0:40–1:15
+VISUAL: 半掩的百叶窗，光影条纹
+
+SHOT_03:
+  TYPE: TWO-SHOT
+  DESC: 沈无名和马绍峰低声交谈。
+
+DIALOGUE:
+  沈无名: "马队，我要设一个信息陷阱。给不同的人透露不同的假线索。"
+  沈无名: "谁传出去的版本，谁就是内鬼。"
+  马绍峰: (沉默片刻) "你怀疑谁？"
+  沈无名: "暂时……怀疑所有人。"
+
+SHOT_04:
+  TYPE: CLOSE-UP
+  DESC: 马绍峰点头，目光沉重。
+
+---
+
+[SCENE 03: 信息陷阱 — 日/夜]
+DURATION: 1:15–2:00
+VISUAL: 蒙太奇——分别传递不同信息
+
+SHOT_05:
+  TYPE: MONTAGE
+  DESC: 快速蒙太奇——
+  1. 沈无名对张警官说："明天凌晨，我们去城西废弃工厂"
+  2. 沈无名对李警官说："目标锁定在南郊火葬场旧址"
+  3. 沈无名对周辉说："新线索指向北山废弃寺庙，但暂时保密"
+
+SFX: 每段对话间用快速切换音效连接
+
+SHOT_06:
+  TYPE: WIDE → CLOSE-UP
+  DESC: 夜晚。沈无名坐在车里，监控三个地点的实时画面（手机分屏）。
+
+DIALOGUE:
+  沈无名: (内心独白) "城西，无异常。南郊，无异常。"
+
+SHOT_07:
+  TYPE: INSERT
+  DESC: 手机画面——北山废弃寺庙，一辆黑色轿车缓缓驶入。
+
+DIALOGUE:
+  沈无名: "北山……有人来了。"
+  沈无名: "周辉。"
+
+SFX: 发动机声 + 心跳加速
+
+---
+
+[SCENE 04: 刑警队楼道 — 夜]
+DURATION: 2:00–2:45
+VISUAL: 昏暗楼道，紧张对峙
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 周辉加完班准备离开，推开楼道门——沈无名靠在墙边等他。
+
+DIALOGUE:
+  沈无名: "周辉。"
+  周辉: (一惊) "沈……沈分析师？这么晚了……"
+
+SHOT_09:
+  TYPE: TWO-SHOT
+  DESC: 沈无名走近一步，目光如冰。
+
+DIALOGUE:
+  沈无名: "昨晚十一点零七分，你用备用手机打了一个电话。号码尾号8827。"
+  沈无名: "那是顾廷渊私人助理的号码。"
+
+SHOT_10:
+  TYPE: CLOSE-UP
+  DESC: 周辉的脸瞬间惨白。
+
+DIALOGUE:
+  周辉: (嘴唇颤抖) "我……我没有选择……他抓住了我的把柄……"
+  周辉: "沈分析师，你不知道他有多可怕——"
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 周辉几乎崩溃，低声说出关键信息。
+
+DIALOGUE:
+  周辉: "他……他知道你所有前世的名字。"
+  周辉: "沈刀、苏仁、沈影、沈炮、沈判、沈谏、沈寻、沈明——"
+  周辉: "他说你是第九个，也是最后一个。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:45–3:00
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈无名的表情终于出现裂缝——眼底闪过一丝震惊。
+
+DIALOGUE:
+  沈无名: (低声) "他知道所有……那他知道的比我还多。"
+
+SHOT_13:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "内鬼不过是棋子——执棋之人，从未出过手。"
+
+SFX: 电话挂断声 → 静默
+
+---
+
+[END OF EPISODE 07]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E08 顾检登场
+HOOK: "从今天起，我将全程参与此案的侦办。希望各位……配合。"

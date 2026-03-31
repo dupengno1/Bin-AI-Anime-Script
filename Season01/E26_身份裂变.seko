@@ -1,0 +1,132 @@
+# EPISODE 26 — 身份裂变
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 26
+TITLE: 身份裂变
+SUBTITLE: Identity Fracture
+TIMELINE: 现代
+FOCUS_CHARACTER: 沈无名, 苏云
+THEME: 沈无名档案全部伪造·凭空出现
+COLOR_TONE: 档案冷白 + 虚无黑
+BGM: existential_doubt → document_revelation → void_ambient → resolve_piano
+
+---
+
+[SCENE 01: 市民政局档案室 — 日]
+DURATION: 0:00–0:40
+VISUAL: 档案室，荧光灯，密集的档案柜
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 苏云利用法医系统的权限，进入市民政局档案室调取沈无名的原始户籍资料。
+
+SHOT_02:
+  TYPE: MEDIUM
+  DESC: 苏云翻开沈无名的户籍档案——出生证明、学历记录、工作履历。
+
+SHOT_03:
+  TYPE: INSERT
+  DESC: 出生证明特写——出生日期：九年前。一个30岁的成年人，九年前才"出生"。
+
+DIALOGUE:
+  苏云: (愣住) "这不可能……九年前他就已经是成年人了。"
+
+SFX: 翻页声 + 荧光灯嗡鸣
+
+---
+
+[SCENE 02: 深入调查]
+DURATION: 0:40–1:30
+VISUAL: 多份文件并排比对
+
+SHOT_04:
+  TYPE: MONTAGE
+  DESC: 苏云逐一核实沈无名的所有身份文件——
+  - 出生证明：九年前签发，但签发医院在那一年已经拆除
+  - 学历证书：大学档案中无此人注册记录
+  - 警校培训记录：教官名单中没有任何人记得他
+  - 入职档案：推荐人一栏的名字查无此人
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 苏云的手开始颤抖。
+
+DIALOGUE:
+  苏云: "所有记录……都是伪造的？"
+  苏云: "沈无名这个人——在九年前之前，根本不存在。"
+
+---
+
+[SCENE 03: 真相告知]
+DURATION: 1:30–2:20
+VISUAL: 两人在车内对话
+
+SHOT_06:
+  TYPE: TWO-SHOT
+  DESC: 苏云在车内将发现告诉沈无名。沈无名沉默了很久。
+
+DIALOGUE:
+  苏云: "你的出生证明是假的。学历是假的。甚至你的名字——'无名'——"
+  苏云: (声音发颤) "你到底是谁？"
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 沈无名低头看自己的双手——手腕的判官印记在微微发光。
+
+DIALOGUE:
+  沈无名: "九年前……那一年是什么年份？"
+  苏云: "你入职的年份。也是镜中人系列案件的第一次预警出现的年份。"
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 沈无名靠回座椅，闭眼。
+
+DIALOGUE:
+  沈无名: "我不是'转世'。前八世都是自然轮回——出生、成长、活到某个年纪，然后死。"
+  沈无名: "但第九世……不一样。"
+  沈无名: "我是直接出现的。判官之魂直接降临在这个身体里——带着所有前世的记忆。"
+  沈无名: "我不是沈无名。我是——阴阳判官本身。"
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 苏云眼泪滑落。
+
+DIALOGUE:
+  苏云: "那你……不是人？"
+  沈无名: (睁眼，看向苏云) "我曾经是。在很久很久以前。"
+  沈无名: (轻声) "但对你……我的感觉是真的。跨越九世的真。"
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:20–3:00
+
+SHOT_10:
+  TYPE: MEDIUM
+  DESC: 沈无名下车，站在夜风中。他抬头望月——与祭坛启动那夜同一轮满月。
+
+DIALOGUE:
+  沈无名: (内心独白) "我不是人类。我是天道的判官。"
+  沈无名: "但我拥有九世为人的记忆——九世的痛苦、九世的执念、九世的爱。"
+  沈无名: "这些够不够让我——做一个人该做的选择？"
+
+SHOT_11:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "身份碎成虚无，但九世的记忆不是假的。凭空而来的人——也有不肯放弃的理由。"
+
+SFX: 夜风声 → 静默
+
+---
+
+[END OF EPISODE 26]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E27 顾的独白
+HOOK: "你以为你在追我？九世了——每一次，都是我放你追的。"

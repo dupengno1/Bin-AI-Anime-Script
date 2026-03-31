@@ -1,0 +1,156 @@
+# EPISODE 23 — 第八世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 23
+TITLE: 第八世影
+SUBTITLE: Shadow of the Eighth Life
+TIMELINE: 现代 → 第八世·1990年代
+FOCUS_CHARACTER: 沈无名 / 沈明
+THEME: 刑警沈明·最近成功的一世
+COLOR_TONE: 现代冷蓝 → 90年代旧黄 + 车灯白
+BGM: nostalgia_synth → 90s_investigation → car_chase_tension → grassland_whisper
+
+---
+
+[SCENE 01: 沈无名公寓 — 夜]
+DURATION: 0:00–0:20
+VISUAL: 桌上放着一台旧式录音机
+
+SHOT_01:
+  TYPE: INSERT
+  DESC: 一台1990年代的微型录音机。外壳满是泥渍和划痕——这是沈无名从城郊一处草丛中挖出的。
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 沈无名按下播放键——磁带沙沙作响，然后传出一个年轻男人的声音。
+
+DIALOGUE:
+  沈明: (录音·沙哑) "我是沈明，市局刑警。如果有人听到这段录音……说明我已经死了。"
+
+SFX: 录音机杂音 → 时空转换
+
+TRANSITION: 画面从录音机过渡为1990年代。
+
+---
+
+[SCENE 02: 1990年代·刑警队 — 日]
+DURATION: 0:20–1:00
+VISUAL: 90年代办公室，老式电脑、传呼机
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 1990年代市局刑警队。年轻的沈明坐在工位上，面前堆满卷宗。
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 沈明比前几世的"自己"都更接近成功——他已经搜集到顾局长贪腐、操纵案件的完整证据链。
+
+DIALOGUE:
+  沈明: (对搭档) "顾局长的银行账户、与犯罪团伙的通话记录、受贿的照片——全在这里。"
+  沈明: "明天，我直接交给省厅。绕过市局所有人。"
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 搭档——一个看起来忠厚的中年刑警——拍着沈明的肩。
+
+DIALOGUE:
+  搭档: "放心，我帮你盯着。谁都不会知道。"
+
+SFX: 传呼机响 + 老式键盘声
+
+---
+
+[SCENE 03: 1990年代·城郊公路 — 夜]
+DURATION: 1:00–2:00
+VISUAL: 夜间公路，车灯刺眼
+
+SHOT_06:
+  TYPE: MEDIUM
+  DESC: 深夜。沈明驾车前往省厅。后视镜中——一辆黑色面包车在尾随。
+
+DIALOGUE:
+  沈明: (自语) "果然……有人通风报信了。"
+
+SHOT_07:
+  TYPE: INSERT
+  DESC: 闪回——搭档在沈明离开后拿起电话，拨出一个号码。
+
+DIALOGUE:
+  搭档: (电话) "顾局长，沈明今晚出发了。走城郊公路。"
+
+SHOT_08:
+  TYPE: WIDE
+  DESC: 公路上，面包车加速逼近。沈明紧急打方向盘——
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 沈明一边驾驶一边抓起录音机，对着录音：
+
+DIALOGUE:
+  沈明: (急促) "顾局长的证据……账户号……通话记录编号……全部在我车里的蓝色文件袋中——"
+
+SHOT_10:
+  TYPE: WIDE
+  DESC: 撞击。面包车侧面猛撞沈明的车。车辆失控，冲向路边。
+
+SFX: 碰撞声 + 玻璃碎裂 + 金属摩擦
+
+SHOT_11:
+  TYPE: INSERT
+  DESC: 车翻倒前的最后一秒——沈明将录音机用力抛出车窗，落入路边草丛。
+
+SHOT_12:
+  TYPE: WIDE
+  DESC: 车辆翻滚，起火。沈明手中紧握铜钱。
+
+SFX: 爆炸声 → 火焰噼啪 → 寂静
+
+---
+
+[SCENE 04: 回到现代]
+DURATION: 2:00–2:50
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 录音继续播放。沈明的最后几句话：
+
+DIALOGUE:
+  沈明: (录音·微弱) "铜钱……在我手里……如果下一世还有我……"
+  沈明: "记住……顾家的弱点……在族谱里……"
+  (录音结束·磁带空转)
+
+SHOT_14:
+  TYPE: MEDIUM
+  DESC: 沈无名关掉录音机，沉默良久。
+
+DIALOGUE:
+  沈无名: "第八世……最接近成功的一世。"
+  沈无名: "证据完整，只差最后一步——但还是被背叛了。"
+  沈无名: (看着铜钱) "不过这一次……他把铜钱和录音都留了下来。"
+  沈无名: "第九世——我手上的牌，比任何一世都多。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_15:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "八世功败垂成，第九世——再无退路。"
+
+SFX: 录音机空转声 → 静默
+
+---
+
+[END OF EPISODE 23]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E24 祭坛启动
+HOOK: "月圆之夜，顾廷渊站在祭坛中央——'九魂归一，判官永灭。'"

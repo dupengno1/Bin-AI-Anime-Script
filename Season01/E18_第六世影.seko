@@ -1,0 +1,146 @@
+# EPISODE 18 — 第六世影
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 18
+TITLE: 第六世影
+SUBTITLE: Shadow of the Sixth Life
+TIMELINE: 现代 → 第六世·清代
+FOCUS_CHARACTER: 沈无名 / 沈谏
+THEME: 御史大夫沈谏·查到皇子被流放
+COLOR_TONE: 现代冷蓝 → 清代朝堂金红 → 流放灰白
+BGM: court_ceremony → accusation_drums → exile_desolation → stone_carving_echo
+
+---
+
+[SCENE 01: 现代·车内 — 夜]
+DURATION: 0:00–0:20
+VISUAL: 沈无名与苏云在车内，救援后返程
+
+SHOT_01:
+  TYPE: MEDIUM
+  DESC: 沈无名驾车，苏云在副驾昏睡。车窗外路灯掠过。
+
+SHOT_02:
+  TYPE: CLOSE-UP
+  DESC: 沈无名目光涣散——前世记忆不由自主地涌来。
+
+SFX: 路灯闪过声 → 朝堂钟鼓声
+
+TRANSITION: 画面从现代公路化为清代朝堂。
+
+---
+
+[SCENE 02: 清代·朝堂 — 日]
+DURATION: 0:20–1:10
+VISUAL: 金碧辉煌的朝堂，群臣朝列
+
+SHOT_03:
+  TYPE: WIDE
+  DESC: 清代朝堂。御史大夫沈谏身着朝服，手持弹劾奏折，跪在殿中央。
+
+DIALOGUE:
+  沈谏: "臣沈谏弹劾内阁首辅顾大人！顾氏一族十七年来贪墨赈灾银两三百万两，致使河南灾民饿殍遍野！"
+  沈谏: "此外——顾首辅暗中操纵三皇子府，意图——"
+
+SHOT_04:
+  TYPE: MEDIUM
+  DESC: 龙椅上的皇帝面色阴沉。群臣窃窃私语。
+
+SHOT_05:
+  TYPE: CLOSE-UP
+  DESC: 顾内阁首辅——白发苍苍但精神矍铄，站在群臣首位，面带微笑。手上——扳指。
+
+DIALOGUE:
+  顾首辅: (不急不慢) "陛下，沈御史所言纯属捕风捉影。所谓证据，不过是过期账目的曲解。"
+  顾首辅: "至于三皇子之事……沈御史身为言官，议论皇室家事，恐有妖言惑众之嫌。"
+
+SFX: 朝堂低语 → 寂静
+
+---
+
+[SCENE 03: 清代·流放路 — 日/夜]
+DURATION: 1:10–2:10
+VISUAL: 荒凉官道，枷锁在身
+
+SHOT_06:
+  TYPE: WIDE
+  DESC: 罪名定——"妖言惑众，流放宁古塔"。沈谏戴枷步行在荒凉的官道上，身后两名押解差役。
+
+SHOT_07:
+  TYPE: CLOSE-UP
+  DESC: 沈谏的脸——消瘦、风霜满面，但目光不屈。
+
+DIALOGUE:
+  沈谏: (内心独白) "顾家……又赢了。第六次了。"
+  沈谏: "但这一次，我比前几世多做了一件事。"
+
+SHOT_08:
+  TYPE: MEDIUM
+  DESC: 流放途经一处石壁。沈谏趁差役不注意，用枷锁上的铁环在石壁上刻字。
+
+SHOT_09:
+  TYPE: INSERT
+  DESC: 石壁上逐渐出现文字——完整的顾氏罪证清单：贪墨数目、关键人物、藏银地点。
+
+DIALOGUE:
+  沈谏: (咬牙刻字) "人可以杀……纸可以烧……"
+  沈谏: "但石头——石头会记住。"
+
+SFX: 铁击石声（节奏坚定）
+
+SHOT_10:
+  TYPE: WIDE
+  DESC: 最后一个冬天。沈谏倒在流放路上，雪覆全身。手中紧握铜钱。
+
+SHOT_11:
+  TYPE: CLOSE-UP
+  DESC: 铜钱从僵硬的手中滑落，落入雪中。
+
+SFX: 风雪呼啸 → 心跳停止
+
+---
+
+[SCENE 04: 回到现代]
+DURATION: 2:10–2:50
+
+SHOT_12:
+  TYPE: CLOSE-UP
+  DESC: 沈无名回过神，车已停在路边。苏云被他的异常惊醒。
+
+DIALOGUE:
+  苏云: "你……又看到了？"
+  沈无名: (点头) "第六世。御史大夫。"
+  沈无名: "他在流放途中把顾氏的罪证刻在了石壁上。"
+
+SHOT_13:
+  TYPE: MEDIUM
+  DESC: 沈无名拿出手机，搜索——"宁古塔古道 石刻遗迹"。
+
+DIALOGUE:
+  沈无名: (内心独白) "如果石壁还在……那是跨越两百年的铁证。"
+
+---
+
+[SCENE 05: 尾声钩子]
+DURATION: 2:50–3:00
+
+SHOT_14:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "人灭于途，字存于石。两百年的冤屈，刻成不朽的证词。"
+
+SFX: 寒风呜咽 → 静默
+
+---
+
+[END OF EPISODE 18]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E19 镜中对话
+HOOK: "镜中的人开口了——'每一世，我都在等你来。'"

@@ -1,0 +1,146 @@
+# EPISODE 08 — 顾检登场
+# Series: 九世轮回·阴阳司 Season 01
+# Format: SEKO v2.0 Anime Short Drama
+# Duration: 3 MIN
+# Author: Bin-AI
+
+---
+
+[META]
+EPISODE: 08
+TITLE: 顾检登场
+SUBTITLE: The Prosecutor Arrives
+TIMELINE: 现代
+FOCUS_CHARACTER: 顾廷渊, 沈无名
+THEME: 顾廷渊进驻刑警队·阴阳案录被翻动
+COLOR_TONE: 冷白 + 深灰（顾的色调入侵）
+BGM: authority_march → uneasy_strings → ancient_whisper_sting
+
+---
+
+[SCENE 01: 刑警队大厅 — 日]
+DURATION: 0:00–0:50
+VISUAL: 阳光从落地窗照入，但气氛压抑
+
+SHOT_01:
+  TYPE: WIDE
+  DESC: 刑警队大厅，全员集合。马绍峰面色凝重地站在前方。
+
+DIALOGUE:
+  马绍峰: "通知大家一件事。市检察院决定——由顾廷渊检察长亲自进驻，全程督办镜中人案。"
+
+SHOT_02:
+  TYPE: REACTION
+  DESC: 众人交头接耳，面露不安。沈无名坐在角落，面无表情。
+
+SHOT_03:
+  TYPE: MEDIUM
+  DESC: 大厅门被推开。顾廷渊步入，深灰西装，微笑温和，身后跟着两名助理。
+
+DIALOGUE:
+  顾廷渊: "各位辛苦了。我来不是监督，是协助。"
+  顾廷渊: (目光扫过全场，最后停在沈无名身上) "希望我们合作愉快。"
+
+SHOT_04:
+  TYPE: CLOSE-UP
+  DESC: 顾廷渊微笑时的眼神特写——温暖的表面下，是深不可测的暗流。
+
+SFX: 皮鞋落地声（节奏稳定）+ 低频弦乐
+
+---
+
+[SCENE 02: 刑警队·临时办公室 — 日]
+DURATION: 0:50–1:40
+VISUAL: 顾廷渊的临时办公室，与沈无名工位仅一墙之隔
+
+SHOT_05:
+  TYPE: MEDIUM
+  DESC: 顾廷渊在临时办公室内安顿。他环顾四周，目光停在隔壁沈无名的工位上。
+
+SHOT_06:
+  TYPE: TWO-SHOT
+  DESC: 顾廷渊走到沈无名工位旁。
+
+DIALOGUE:
+  顾廷渊: "沈分析师，案件资料可以让我看看吗？"
+  沈无名: (递过一份报告) "公开资料在这里。其余的在系统里。"
+  顾廷渊: (接过报告，指尖轻触沈无名的手) "谢谢。"
+
+SHOT_07:
+  TYPE: INSERT
+  DESC: 接触瞬间——沈无名手腕判官印记微微发热。他不动声色地收回手。
+
+DIALOGUE:
+  沈无名: (内心独白) "他每次靠近，印记都有反应。"
+  沈无名: "这不是巧合——是血脉共鸣。"
+
+---
+
+[SCENE 03: 刑警队·沈无名工位 — 夜]
+DURATION: 1:40–2:30
+VISUAL: 深夜，空旷办公室
+
+SHOT_08:
+  TYPE: WIDE
+  DESC: 夜深人静，沈无名回到工位。他打开抽屉——
+
+SHOT_09:
+  TYPE: CLOSE-UP
+  DESC: 阴阳案录的位置微微偏移。册子的页角被折了一下——他离开前没有折。
+
+DIALOGUE:
+  沈无名: (瞳孔微缩) "有人动过它。"
+
+SHOT_10:
+  TYPE: INSERT
+  DESC: 沈无名翻开被折的页面——正好是九宫八卦困魂阵的记载页。
+
+DIALOGUE:
+  沈无名: "他翻到了阵法这一页。"
+  沈无名: (内心独白) "不是为了看——是为了告诉我：他看过了。"
+
+SHOT_11:
+  TYPE: MEDIUM
+  DESC: 沈无名抬头，目光穿过玻璃隔断，看向顾廷渊的临时办公室。桌上放着一杯未喝完的茶。
+
+DIALOGUE:
+  沈无名: "顾廷渊……你到底想让我知道多少？"
+
+SFX: 时钟滴答 + 茶香（通感暗示）
+
+---
+
+[SCENE 04: 尾声钩子]
+DURATION: 2:30–3:00
+VISUAL: 监控画面 + 古语
+
+SHOT_12:
+  TYPE: INSERT
+  DESC: 沈无名调出办公室监控录像回放——顾廷渊翻看阴阳案录的画面。
+
+SHOT_13:
+  TYPE: CLOSE-UP
+  DESC: 录像中，顾廷渊翻完案录后对着镜头微微一笑，嘴唇轻启——无声地说了一句话。
+
+SHOT_14:
+  TYPE: CLOSE-UP
+  DESC: 沈无名反复回放，终于读出唇语。他的表情凝固。
+
+DIALOGUE:
+  沈无名: (颤声) "他说的是……大梁古语。"
+  沈无名: "'判官大人，别来无恙。'"
+
+SHOT_15:
+  TYPE: BLACK_SCREEN + TEXT
+
+TEXT_ON_SCREEN: "猎人已入笼，究竟谁是笼中之兽？"
+
+SFX: 古语回声 → 静默
+
+---
+
+[END OF EPISODE 08]
+
+[NEXT_EPISODE_PREVIEW]
+TITLE: E09 第三世影
+HOOK: "诏狱的墙上刻着八个字：九世不绝，判官不死。"
